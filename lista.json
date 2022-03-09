@@ -1,0 +1,327 @@
+
+[
+
+{ "nombre" : "Oil Smoke Stop (corta humo)", "marca" : "liqui moly",  "categoria" : "aditivos", "imagen": "/img/OliSmokeStop.jpg", "destacado" : false},
+{ "nombre" : "Injection Reiniger (limpiador de inyectores)", "marca" : "liqui moly",  "categoria" : "aditivos", "imagen": "/img/InjectionReiniger.jpg", "destacado" : true , "precio" : 1999},
+{ "nombre" : "Diesel-Rub Stop (anti-fumo de gasoleo)", "marca" : "liqui moly",  "categoria" : "aditivos", "imagen": "/img/Diesel-RubStop.jpg", "destacado" : false},
+{ "nombre" : "Diesel systempflege (sistema mantenimiento diesel)", "marca" : "liqui moly",  "categoria" : "aditivos", "imagen": "/img/DieselSystempflege.jpg", "destacado" : true, "precio" : 2299},
+{ "nombre" : "Diesel-partikelfilter Schutz (proteccion para filtros de particulas diesel)", "marca" : "liqui moly",  "categoria" : "aditivos", "imagen": "/img/Diesel-partikelfilterSchutz.jpg", "destacado" : false},
+{ "nombre" : "Kuhler-dichter (tapafugas de radiador)", "marca" : "liqui moly",  "categoria" : "aditivos", "imagen": "/img/Kuhler-dichter.jpg", "destacado" : false},
+{ "nombre" : "Wartungs-spray weiss (spray blanco para mantenimiento)", "marca" : "liqui moly",  "categoria" : "aditivos", "imagen": "/img/Wartungs-sprayWeiss.jpg", "destacado" : false},
+{ "nombre" : "Oil system cleaner (tratamiento de limpieza de motor)", "marca" : "liqui moly",  "categoria" : "aditivos", "imagen": "/img/OilSystemCleaner.jpg", "destacado" : false},
+{ "nombre" : "Ol-verlust STOP (tapafugas de aceite)", "marca" : "liqui moly",  "categoria" : "aditivos", "imagen": "/img/Ol-verlustSTOP.jpg", "destacado" : false},
+{ "nombre" : "drossel-klappen-reiniger", "marca" : "liqui moly",  "categoria" : "aditivos", "imagen": "/img/drossel-klappen-reiniger.jpg", "destacado" : false},
+
+{ "nombre" : "5 Litros agua destilada", "marca" : "Fresh tc", "categoria" : "refrigerantes", "imagen": "/img/aguaDestildada.jpg", "destacado" : true, "precio" : 249},
+{ "nombre" : "6 Litros refrigerante azul", "marca" : "Status", "categoria" : "refrigerantes", "imagen": "/img/6lrefrigeranteazul.jpg",  "destacado" : true, "precio" : 499},
+{ "nombre" : "6 Litros refrigerante rosa", "marca" : "Status", "categoria" : "refrigerantes", "imagen": "/img/6lrefrigeranterosa.jpg",  "destacado" : true, "precio" : 499},
+{ "nombre" : "5 Litros refrigerante amarillo", "marca" : "Motorflu", "categoria" : "refrigerantes", "imagen": "/img/5LitrosRefrigeranteMotorflu.jpg",  "destacado" : true, "precio" : 499},
+{ "nombre" : "1 Litro refrigerante concentrado supra red ", "marca" : "Total", "categoria" : "refrigerantes", "imagen": "/img/1LitroRefrigeranteConcentradoSupraRed.jpg",  "destacado" : true, "precio" : 999},
+{ "nombre" : "1 Litro refrigerante concentrado glacelf supra", "marca" : "Total", "categoria" : "refrigerantes", "imagen": "/img/1LitroRefrigeranteConcentradoGlacelfSupra.jpg", "destacado" : false},
+{ "nombre" : "1 Litro refrigerante concentrado glacelf", "marca" : "Total", "imagen": "/img/1LitroRefrigeranteConcentradoGlacelf.jfif",  "destacado" : false},
+
+{ "nombre" : "liquido para frenos 1 Litro", "marca" : "Raybestos",  "categoria" : "liquido para frenos",  "imagen": "/img/liquidoDeFrenosRaybestos1litro.jpg",  "destacado" : true, "precio" : 659},
+{ "nombre" : "liquido para frenos 500 cm3", "marca" : "Raybestos",  "categoria" : "liquido para frenos",  "imagen": "/img/liquidoDeFrenosRaybestosMedioLitro.jpg",  "destacado" : true, "precio" : 1199},
+
+{ "nombre" : "H1", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h1.jpg", "codigo": 25511, "destacado" : false, "precio": 239},
+{ "nombre" : "H3", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h3.jpg", "codigo": 25531, "destacado" : false, "precio": 239},
+{ "nombre" : "H4", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h4.jpg", "codigo": 25551, "destacado" : true, "precio": 349},
+{ "nombre" : "H7", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h7.jpg", "codigo": 25571, "destacado" : true, "precio": 589},
+{ "nombre" : "H11", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h11.jpg", "codigo": 25491, "destacado" : false, "precio": 1399},
+{ "nombre" : "Piojito", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/piojito.jpg", "destacado" : true, "precio" : 59},
+{ "nombre" : "Piojito Led", "marca" : "",  "categoria" : "iluminacion", "imagen": "/img/piojitoLed.jpg", "destacado" : false, "precio" : 159},
+{ "nombre" : "1 Polo 12V", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/1Polo.jpg", "destacado" : false},
+{ "nombre" : "2 Polos 12V", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/2polo.jpg", "destacado" : true },
+
+
+{ "nombre" : "10A fusible plano", "marca" : "Divaio",  "categoria" : "fusibles", "imagen": "/img/fusible10a.jpg", "destacado" : false, "precio": 10},
+{ "nombre" : "15A fusible plano", "marca" : "Divaio",  "categoria" : "fusibles", "imagen": "/img/fusible15a.jpg", "destacado" : false, "precio": 10},
+{ "nombre" : "20A fusible plano", "marca" : "Divaio",  "categoria" : "fusibles", "imagen": "/img/fusible20a.jpg", "destacado" : false, "precio": 10},
+{ "nombre" : "25A fusible plano", "marca" : "Divaio",  "categoria" : "fusibles", "imagen": "/img/fusible25a.jpg", "destacado" : false, "precio": 10},
+{ "nombre" : "30A fusible plano", "marca" : "Divaio",  "categoria" : "fusibles", "imagen": "/img/fusible30a.jpg", "destacado" : false, "precio": 10},
+{ "nombre" : "kit x10 fusibles", "marca" : "Divaio",  "categoria" : "fusibles", "imagen": "/img/kitDivaio.jpg", "destacado" : true, "precio": 89}, 
+
+{ "nombre" : "12x75", "marca" : "Marelli", "categoria" : "baterias", "imagen": "/img/bateriaMarelli.jfif", "destacado" : true , "precio": 18999},
+
+
+{ "nombre" : "12x75", "marca" : "ACDelco gold", "categoria" : "baterias", "imagen": "/img/bateria-acdelco.png", "destacado" : false},
+{ "nombre" : "12x70", "marca" : "ACDelco gold", "categoria" : "baterias", "imagen": "/img/bateria-acdelco.png", "destacado" : false},
+{ "nombre" : "12x60", "marca" : "ACDelco gold", "categoria" : "baterias", "imagen": "/img/bateria-acdelco.png","destacado" : false},
+{ "nombre" : "12x55", "marca" : "ACDelco gold", "categoria" : "baterias", "imagen": "/img/bateria-acdelco.png", "destacado" : false},
+{ "nombre" : "12x50", "marca" : "ACDelco gold", "categoria" : "baterias", "imagen": "/img/bateria-acdelco.png", "destacado" : false},
+{ "nombre" : "12x45", "marca" : "ACDelco gold", "categoria" : "baterias", "imagen": "/img/bateria-acdelco.png", "destacado" : false},
+
+{ "nombre" : "12x75", "marca" : "ACDelco red", "categoria" : "baterias", "imagen": "/img/acdelcoRedBateria.jpg", "destacado" : false},
+{ "nombre" : "12x70", "marca" : "ACDelco red", "categoria" : "baterias", "imagen": "/img/acdelcoRedBateria.jpg", "destacado" : false},
+{ "nombre" : "12x60", "marca" : "ACDelco red", "categoria" : "baterias", "imagen": "/img/acdelcoRedBateria.jpg", "destacado" : false},
+{ "nombre" : "12x45", "marca" : "ACDdelco red", "categoria" : "baterias", "imagen": "/img/acdelcoRedBateria.jpg", "destacado" : false},
+
+
+{ "nombre" : "1 Litro 10W40 Super Leichtlauf (sintetico)", "marca" : "liqui moly",  "categoria" : "aceite para motor", "imagen": "/img/1litro10W-40liquimoly.jpg", "destacado" : true, "precio": 2099}, 
+{ "nombre" : "1 Litro 5W40 top tec 4100", "marca" : "liqui moly",  "categoria" : "aceite para motor", "imagen": "/img/1L5W-40toptec4100.jpg", "destacado" : false}, 
+{ "nombre" : "1 Litro 5W30 evolution full-tech MSX", "marca" : "elf",  "categoria" : "aceite para motor", "imagen": "/img/1L5W-30evolutionfull-techMSX.jpg", "destacado" : false}, 
+
+{ "nombre" : "4 Litros 10W40 7000 (semi-sintetico)", "marca" : "total",  "categoria" : "aceite para motor", "imagen": "/img/4L-10W-40-7000Total.jpg", "destacado" : true}, 
+{ "nombre" : "4 Litros 10W40 Super Leichtlauf (sintetico)", "marca" : "liqui moly",  "categoria" : "aceite para motor", "imagen": "/img/4L-10W-40SuperLeichtlauf.jpg", "destacado" : true, "precio" : 7599},  
+{ "nombre" : "4 Litros 10W40 Leichtlauf Performance (semi-sintetico)", "marca" : "liqui moly",  "categoria" : "aceite para motor", "imagen": "/img/4L-10W-40LeichtlaufPerformance.png", "destacado" : false, "precio" : 5399},  
+{ "nombre" : "4 Litros 5W40 top tec 4100 (sintetico)", "marca" : "liqui moly",  "categoria" : "aceite para motor", "imagen": "/img/4L-5W-40TopTec4100.jpg", "destacado" : false},
+{ "nombre" : "4 Litros 5W40 9000 (sintetico)", "marca" : "total",  "categoria" : "aceite para motor", "imagen": "/img/4L-5W-40-9000Total.jpg", "destacado" : false},  
+{ "nombre" : "4 Litros 5W30 SAE (sintetico)", "marca" : "ACDelco",  "categoria" : "aceite para motor", "imagen": "/img/4L-5W-30SAEACDELCO.jpg", "destacado" : false},  
+
+
+{ "nombre" : "1 Litro SAE 75W tranself NFK", "marca" : "elf",  "categoria" : "aceite para caja", "imagen": "/img/ELF1litroSAE75WtranselfNFK.jfif", "destacado" : false}, 
+
+
+
+{ "nombre" : "amortiguador trasero ford ka", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb29949", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "ka (2007 - 2011)"},
+{ "nombre" : "amortiguador delantero vw fox", "tipo": "delanteros", "marca" : "cofap", "codigo" : "gb32476", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "fox"},
+{ "nombre" : "amortiguador delantero vw suran", "tipo": "delanteros", "marca" : "cofap", "codigo" : "gb32476", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "suran"},
+{ "nombre" : "amortiguador delantero izq fiat qubo", "tipo": "delantero izq", "marca" : "cofap", "codigo" : "gp32943", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "fiat", "modelo" : "qubo"},
+{ "nombre" : "amortiguador delantero toyota etios", "tipo": "delanteros", "marca" : "cofap", "codigo" : "gp30527", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "toyota", "modelo" : "etios (2012 -->)"},
+{ "nombre" : "amortiguador delantero der citroen c3 picasso", "tipo": "delantero der", "marca" : "cofap", "codigo" : "gp32786", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "citroen", "modelo" : "c3 picasso  (2011->)"},
+{ "nombre" : "amortiguador delantero izq citroen c3 picasso", "tipo": "delantero izq", "marca" : "cofap", "codigo" : "gp32787", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "citroen", "modelo" : "c3 picasso  (2011->)"},
+{ "nombre" : "amortiguador delantero izq hyundai i30", "tipo": "delantero izq", "marca" : "cofap", "codigo" : "gp33205", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "hyundai", "modelo" : "i30"},
+{ "nombre" : "amortiguador delantero der hyundai i30", "tipo": "delantero der", "marca" : "cofap", "codigo" : "gp33204", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "hyundai", "modelo" : "i30"},
+{ "nombre" : "amortiguador delantero mercedez benz sprinter 408", "tipo": "delanteros", "marca" : "cofap", "codigo" : "gL13713", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "mercedez benz", "modelo" : "sprinter 408 (2000 -2012)"},
+{ "nombre" : "amortiguador delantero mercedez benz sprinter 413", "tipo": "delanteros", "marca" : "cofap", "codigo" : "gL13713", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "mercedez benz", "modelo" : "sprinter 413 (2000 -2012)"},
+{ "nombre" : "amortiguador delantero fiat duna", "tipo": "delanteros", "marca" : "cofap", "codigo" : "mp32316", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "fiat", "modelo" : "duna"},
+{ "nombre" : "amortiguador delantero fiat fiorino", "tipo": "delanteros", "marca" : "cofap", "codigo" : "mp32316", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "fiat", "modelo" : "fiorino"},
+{ "nombre" : "amortiguador delantero fiat uno", "tipo": "delanteros", "marca" : "cofap", "codigo" : "mp32316", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "fiat", "modelo" : "uno"},
+{ "nombre" : "amortiguador trasero vw vento", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb48240", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "vento"},
+{ "nombre" : "amortiguador trasero nissan tiida", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb48233", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "nissan", "modelo" : "tiida (2007 - 2013)"},
+{ "nombre" : "amortiguador trasero ford ka", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb47780", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "ka (1997-2007)"},
+{ "nombre" : "amortiguador delantero izq citroen c3", "tipo": "delantero izq", "marca" : "cofap", "codigo" : "gp30346", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "citroen", "modelo" : "c3 (2003-2012)"},
+{ "nombre" : "amortiguador delantero renault symbol", "tipo": "delanteros", "marca" : "cofap", "codigo" : "gp30110", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "clio II (2003 - 2009)"},
+{ "nombre" : "amortiguador delantero renault symbol", "tipo": "delanteros", "marca" : "cofap", "codigo" : "gp30110", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "symbol"},
+{ "nombre" : "amortiguador delantero der citroen c3", "tipo": "delantero der", "marca" : "cofap", "codigo" : "gp30345", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "citroen", "modelo" : "c3 (2003 - 2012)"},
+{ "nombre" : "amortiguador delantero vw voyage", "tipo": "delanteros", "marca" : "cofap", "codigo" : "gp32986", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "gol trend 2008->"},
+{ "nombre" : "amortiguador delantero vw voyage", "tipo": "delanteros", "marca" : "cofap", "codigo" : "gp32986", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "voyage 2008->"},
+{ "nombre" : "amortiguador delantero nissan versa", "tipo": "delanteros", "marca" : "cofap", "codigo" : "gp30531", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "nissan", "modelo" : "versa  (2011 - 2015)"},
+{ "nombre" : "amortiguador delantero peugeot 206", "tipo": "delanteros", "marca" : "cofap", "codigo" : "gp30178-9", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "206"},
+{ "nombre" : "amortiguador delantero der nissan sentra", "tipo": "delantero der", "marca" : "cofap", "codigo" : "gp33202", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "nissan", "modelo" : "sentra (2007 - 2012)"},
+{ "nombre" : "amortiguador delantero izq nissan sentra", "tipo": "delantero izq", "marca" : "cofap", "codigo" : "gp33203", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "nissan", "modelo" : "sentra (2007 - 2012)"},
+{ "nombre" : "amortiguador delantero izq chevrolet astra", "tipo": "delantero izq", "marca" : "cofap", "codigo" : "gp32276", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "chevrolet", "modelo" : "astra (sedan)"},
+{ "nombre" : "amortiguador delantero der chevrolet astra", "tipo": "delantero der", "marca" : "cofap", "codigo" : "gp32277", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "chevrolet", "modelo" : "astra (sedan)"},
+{ "nombre" : "amortiguador delantero der fiat qubo", "tipo": "delantero der", "marca" : "cofap", "codigo" : "gb32942", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "fiat", "modelo" : "qubo"},
+{ "nombre" : "amortiguador delantero renault logan", "tipo": "delanteros", "marca" : "cofap", "codigo" : "gp30314", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "logan"},
+{ "nombre" : "amortiguador delantero renault sandero", "tipo": "delanteros", "marca" : "cofap", "codigo" : "gp30314", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "sandero"},
+{ "nombre" : "amortiguador trasero renault clio II", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb47828", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "clio II (1999 - 2009)"},
+{ "nombre" : "amortiguador trasero renault symbol", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb47828", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "symbol"},
+
+{ "nombre" : "amortiguador trasero honda civic", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb48248", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "honda", "modelo" : "civic (2011 ->)"},
+{ "nombre" : "amortiguador trasero nissan versa", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb48244", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "nissan", "modelo" : "versa (2011 - 2015))"},
+{ "nombre" : "amortiguador trasero nissan sentra", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb48231", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "nissan", "modelo" : "sentra (2007 - 2012)"},
+{ "nombre" : "amortiguador delantero der CR-V", "tipo": "delantero der", "marca" : "cofap", "codigo" : "gp35971", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "honda", "modelo" : "CR-V (2008/2011) EX - LX"},
+{ "nombre" : "amortiguador delantero der mitsubichi outlander", "tipo": "delantero der", "marca" : "cofap", "codigo" : "gp33200", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "mitsubichi", "modelo" : "outlander (2007 - 2009)"},
+{ "nombre" : "amortiguador delantero izq mitsubichi outlander", "tipo": "delantero izq", "marca" : "cofap", "codigo" : "gp33201", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "mitsubichi", "modelo" : "outlander (2007 - 2009)"},
+{ "nombre" : "amortiguador delantero renault clio", "tipo": "delanteros", "marca" : "cofap", "codigo" : "mp35948", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "clio / 1999 - 2003"},
+{ "nombre" : "amortiguador trasero toyota corolla", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb50954", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "toyota", "modelo" : "corolla (2008 - 2014 / excepto XRS)"},
+{ "nombre" : "amortiguador delantero der nissan tiida", "tipo": "delantero der", "marca" : "cofap", "codigo" : "gp33206", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "nissan", "modelo" : "tiida (2007 - 2013)"},
+{ "nombre" : "amortiguador delantero izq nissan tiida", "tipo": "delantero izq", "marca" : "cofap", "codigo" : "gp33207", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "nissan", "modelo" : "tiida (2007 - 2013)"},
+{ "nombre" : "amortiguador trasero honda civic", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb29982", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "honda", "modelo" : "civic (2006 - 2011) (excepto SI)"},
+{ "nombre" : "amortiguador trasero citroen berlingo", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb47595", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "citroen", "modelo" : "berlingo"},
+{ "nombre" : "amortiguador trasero citroen xsara picasso", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb47595", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "citroen", "modelo" : "xsara picasso (1999 - 2011)"},
+{ "nombre" : "amortiguador trasero citroen partner", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb47595", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "citroen", "modelo" : "partner"},
+{ "nombre" : "amortiguador trasero vw amarok", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb48237", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "amarok (2012 -->)"},
+{ "nombre" : "amortiguador trasero renault clio", "tipo": "traseros", "marca" : "cofap", "codigo" : "bL1092", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "clio (1994 - 1999)"},
+{ "nombre" : "amortiguador trasero renault express", "tipo": "traseros", "marca" : "cofap", "codigo" : "bL1092", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "express (1995 ->)"},
+{ "nombre" : "amortiguador delantero izq jeep renegade", "tipo": "delantero izq", "marca" : "cofap", "codigo" : "gp33229", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "jeep", "modelo" : "renegade"},
+{ "nombre" : "amortiguador delantero vw amarok", "tipo": "delanteros", "marca" : "cofap", "codigo" : "gL13685", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "amarok (2012 -->)"},
+{ "nombre" : "amortiguador delantero der jeep renegade", "tipo": "delantero der", "marca" : "cofap", "codigo" : "gp33228", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "jeep", "modelo" : "renegade"},
+{ "nombre" : "amortiguador delantero vw vento", "tipo": "delanteros", "marca" : "cofap", "codigo" : "gp33212", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "vento (2007 - 2011)"},
+{ "nombre" : "amortiguador trasero ford galaxy", "tipo": "traseros", "marca" : "cofap", "codigo" : "gL27235", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "galaxy "},
+{ "nombre" : "amortiguador trasero vw carat", "tipo": "traseros", "marca" : "cofap", "codigo" : "gL27235", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "carat"},
+{ "nombre" : "amortiguador trasero vw quantum", "tipo": "traseros", "marca" : "cofap", "codigo" : "gL27235", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "quantum"},
+{ "nombre" : "amortiguador trasero vw santana", "tipo": "traseros", "marca" : "cofap", "codigo" : "gL27235", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "santana (2002 - 2007)"},
+
+{ "nombre" : "amortiguador trasero vw fox", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb27320", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "fox"},
+{ "nombre" : "amortiguador trasero vw suran", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb30089", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "suran"},
+{ "nombre" : "amortiguador delantero izq toyota corolla", "tipo": "delantero izq", "marca" : "cofap", "codigo" : "gp35955", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "toyota", "modelo" : "corolla (2008 - 2014 / excepto XRS)"},
+{ "nombre" : "amortiguador trasero renault r11", "tipo": "traseros", "marca" : "cofap", "codigo" : "b47617", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "r11 (largo cuerpo 324)"},
+{ "nombre" : "amortiguador trasero renault r11", "tipo": "traseros", "marca" : "cofap", "codigo" : "gp32942", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "r9 (largo cuerpo 324)"},
+{ "nombre" : "amortiguador delantero ford fiesta", "tipo": "delanteros", "marca" : "cofap", "codigo" : "gp30231", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "fiesta (2002 - 2013) excepto kinetic"},
+{ "nombre" : "amortiguador delantero peugeot 504", "tipo": "delanteros", "marca" : "cofap", "codigo" : "32322", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "504"},
+{ "nombre" : "amortiguador trasero citroen xsara", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb47615", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "citroen", "modelo" : "xsara (1998 - 2005)"},
+{ "nombre" : "amortiguador trasero citroen zx", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb47615", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "citroen", "modelo" : "zx"},
+{ "nombre" : "amortiguador trasero peugeot 205", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb47615", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "205"},
+{ "nombre" : "amortiguador trasero peugeot 306", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb47615", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "306"},
+
+{ "nombre" : "amortiguador delantero fiat duna", "tipo": "delanteros", "marca" : "cofap", "codigo" : "mp32316", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "fiat", "modelo" : "duna"},
+{ "nombre" : "amortiguador delantero fiat fiorino", "tipo": "delanteros", "marca" : "cofap", "codigo" : "mp32316", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "fiat", "modelo" : "fiorino"},
+{ "nombre" : "amortiguador delantero fiat uno", "tipo": "delanteros", "marca" : "cofap", "codigo" : "mp32316", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "fiat", "modelo" : "uno"},
+
+{ "nombre" : "amortiguador trasero fiat duna", "tipo": "traseros", "marca" : "cofap", "codigo" : "mp30094c", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "fiat", "modelo" : "duna"},
+{ "nombre" : "amortiguador trasero fiat uno", "tipo": "traseros", "marca" : "cofap", "codigo" : "mp30094c", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "fiat", "modelo" : "uno"},
+
+{ "nombre" : "amortiguador trasero mitsubishi outlander", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb48230", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "mitsubishi", "modelo" : "outlander (2007 - 2009)"},
+{ "nombre" : "amortiguador delantero der ford focus", "tipo": "delantero der", "marca" : "cofap", "codigo" : "gp32581", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "focus"},
+{ "nombre" : "amortiguador delantero izq ford focus", "tipo": "delantero izq", "marca" : "cofap", "codigo" : "gp32582", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "focus"},
+{ "nombre" : "amortiguador trasero renault magane", "tipo": "traseros", "marca" : "cofap", "codigo" : "gl12900", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "magane (1997 - 2008)"},
+{ "nombre" : "amortiguador delantero fiat palio", "tipo": "delanteros", "marca" : "cofap", "codigo" : "gp30130", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "fiat", "modelo" : "palio (2000 ->)"},
+{ "nombre" : "amortiguador delantero fiat siena", "tipo": "delanteros", "marca" : "cofap", "codigo" : "gp30130", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "fiat", "modelo" : "siena (2000 ->)"},
+{ "nombre" : "amortiguador trasero chevrolet celta", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb47061", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "chevrolet", "modelo" : "celta (2011->)"},
+{ "nombre" : "amortiguador trasero chevrolet corsa", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb47061", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "chevrolet", "modelo" : "corsa"},
+{ "nombre" : "amortiguador trasero chevrolet prisma", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb47061", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "chevrolet", "modelo" : "prisma (2010 - 2013)"},
+{ "nombre" : "amortiguador trasero suzuki fun", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb47061", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "suzuki", "modelo" : "fun"},
+{ "nombre" : "amortiguador delantero ford ka", "tipo": "delanteros", "marca" : "cofap", "codigo" : "gp35950", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "ka (2007 - 2015)"},
+{ "nombre" : "amortiguador delantero ford ranger", "tipo": "delanteros", "marca" : "cofap", "codigo" : "gL13683", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "ranger (2012 -> new ranger)"},
+{ "nombre" : "amortiguador delantero renault clio", "tipo": "delanteros", "marca" : "cofap", "codigo" : "gp30108", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "clio II (1999 - 2011)"},
+{ "nombre" : "amortiguador delantero ford courier", "tipo": "delantero", "marca" : "cofap", "codigo" : "gp30074", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "courier (1997 - 2000)"},
+{ "nombre" : "amortiguador delantero ford fiesta", "tipo": "delantero", "marca" : "cofap", "codigo" : "gp30074", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "fiesta"},
+
+{ "nombre" : "amortiguador trasero toyota hilux", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb29987", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "toyota", "modelo" : "hilux"},
+{ "nombre" : "amortiguador trasero vw gol", "tipo": "traseros", "marca" : "cofap", "codigo" : "b47099", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "gol (1998 - 2005)"},
+{ "nombre" : "amortiguador trasero vw gol country", "tipo": "traseros", "marca" : "cofap", "codigo" : "b47099", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "gol country (2011 - 2013)"},
+
+{ "nombre" : "amortiguador delantero toyota hilux", "tipo": "delanteros", "marca" : "cofap", "codigo" : "gb48003", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "toyota", "modelo" : "hilux (1996 - 2004)"},
+{ "nombre" : "amortiguador delantero toyota hilux sw4", "tipo": "delanteros", "marca" : "cofap", "codigo" : "gb48003", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "toyota", "modelo" : "hilux sw4 (1996 - 2004)"},
+
+{ "nombre" : "amortiguador trasero toyota hilux", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb48004", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "toyota", "modelo" : "hilux (1996 - 2004)"},
+{ "nombre" : "amortiguador trasero toyota hilux sw4", "tipo": "traseros", "marca" : "cofap", "codigo" : "gb48004", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "toyota", "modelo" : "hilux sw4 (1996 - 2004)"},
+
+{ "nombre" : "amortiguador trasero dacia 1200", "tipo": "traseros", "marca" : "cofap", "codigo" : "b47473", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "dacia", "modelo" : "1200"},
+{ "nombre" : "amortiguador trasero dacia 1300", "tipo": "traseros", "marca" : "cofap", "codigo" : "b47473", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "dacia", "modelo" : "1300"},
+
+{ "nombre" : "amortiguador trasero renault r12", "tipo": "traseros", "marca" : "cofap", "codigo" : "b47473", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "r12"},
+{ "nombre" : "amortiguador trasero renault r18", "tipo": "traseros", "marca" : "cofap", "codigo" : "b47473", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "r18"},
+
+{ "nombre" : "amortiguador trasero toyota corolla", "tipo": "traseros", "marca" : "cofap", "codigo" : "gbL1205", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "toyota", "modelo" : "corolla (2002 - 2008)"},
+{ "nombre" : "amortiguador delantero izq chevrolet aveo", "tipo": "delantero izq", "marca" : "cofap", "codigo" : "gp30536", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "chevrolet", "modelo" : "aveo"},
+{ "nombre" : "amortiguador delantero der chevrolet aveo", "tipo": "delantero der", "marca" : "cofap", "codigo" : "gp30537", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "chevrolet", "modelo" : "aveo"},
+
+{ "nombre" : "amortiguador trasero fiat palio", "tipo": "traseros", "marca" : "cofap", "codigo" : "gbL1119", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "fiat", "modelo" : "palio (2000 ->)"},
+{ "nombre" : "amortiguador trasero fiat siena", "tipo": "traseros", "marca" : "cofap", "codigo" : "gbL1119", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "fiat", "modelo" : "siena (2000 ->)"},
+{ "nombre" : "amortiguador delantero der ford focus", "tipo": "delantero der", "marca" : "cofap", "codigo" : "gp33234", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "focus II (2008 - 2014)"},
+
+{ "nombre" : "amortiguador ", "tipo": "", "marca" : "cofap", "codigo" : "gb48339", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "", "modelo" : ""},
+{ "nombre" : "amortiguador ", "tipo": "", "marca" : "cofap", "codigo" : "gb48334", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "", "modelo" : ""},
+{ "nombre" : "amortiguador ", "tipo": "", "marca" : "cofap", "codigo" : "gb33235", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "", "modelo" : ""},
+{ "nombre" : "amortiguador ", "tipo": "", "marca" : "cofap", "codigo" : "gp30613", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "", "modelo" : ""},
+{ "nombre" : "amortiguador ", "tipo": "", "marca" : "cofap", "codigo" : "gp33352", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "", "modelo" : ""},
+{ "nombre" : "amortiguador ", "tipo": "", "marca" : "cofap", "codigo" : "gp33332", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "", "modelo" : ""},
+{ "nombre" : "amortiguador ", "tipo": "", "marca" : "cofap", "codigo" : "gp33333", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "", "modelo" : ""},
+{ "nombre" : "amortiguador ", "tipo": "", "marca" : "cofap", "codigo" : "gb4339", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "", "modelo" : ""},
+{ "nombre" : "amortiguador ", "tipo": "", "marca" : "cofap", "codigo" : "gb48334", "categoria" : "amortiguadores", "imagen": "/img/amortiguadorescofap.jpg", "destacado" : false, "marcaDeAuto" : "", "modelo" : ""},
+
+
+
+
+
+
+{ "nombre" : "pastillas de freno Delanteras peugeot 207", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22434", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "207"},
+{ "nombre" : "pastillas de freno Delanteras peugeot 307", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22434", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "307"},
+{ "nombre" : "pastillas de freno Delanteras renault CLIO", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22407", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "CLIO"},
+{ "nombre" : "pastillas de freno Delanteras renault EXPRESS", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22407", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "EXPRESS"},
+{ "nombre" : "pastillas de freno Delanteras renault LOGAN", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22407", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "LOGAN"},
+{ "nombre" : "pastillas de freno Delanteras renault SANDERO", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22407", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "SANDERO"},
+{ "nombre" : "pastillas de freno Delanteras renault SYMBOL ", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22407", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "SYMBOL 09>"},
+{ "nombre" : "pastillas de freno Delanteras peugeot partner", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22391n", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "partner (MOD. 10> MOT.1.4/1.6)"},
+{ "nombre" : "pastillas de freno Delanteras peugeot hoggar", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22391n", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "hoggar (MOD. 10> MOT.1.4/1.6)"},
+{ "nombre" : "pastillas de freno Delanteras citroen berlingo", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22391n", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "citroen", "modelo" : "berlingo 10>"},
+{ "nombre" : "pastillas de freno Delanteras peugeot 206", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22392", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "206"},
+{ "nombre" : "pastillas de freno Delanteras peugeot PARTNER", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22392", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "PARTNER"},
+{ "nombre" : "pastillas de freno Traseras peugeot 106", "tipo": "traseras", "marca" : "plasbestos", "codigo" : "22090", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "106"},
+{ "nombre" : "pastillas de freno Traseras peugeot 206", "tipo": "traseras", "marca" : "plasbestos", "codigo" : "22090", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "206"},
+{ "nombre" : "pastillas de freno Traseras peugeot 306", "tipo": "traseras", "marca" : "plasbestos", "codigo" : "22090", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "306"},
+{ "nombre" : "pastillas de freno Traseras renault CLIO II", "tipo": "traseras", "marca" : "plasbestos", "codigo" : "22090", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "CLIO II"},
+{ "nombre" : "pastillas de freno Delanteras RENAULT R9", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22043", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "R9"},
+{ "nombre" : "pastillas de freno Delanteras RENAULT R11", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22043", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "R11"},
+{ "nombre" : "pastillas de freno Delanteras RENAULT R18", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22043", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "R18"},
+{ "nombre" : "pastillas de freno Delanteras RENAULT FUEGO", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22043", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "FUEGO"},
+{ "nombre" : "pastillas de freno Delanteras RENAULT FUEGO", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22043", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "FUEGO"},
+{ "nombre" : "pastillas de freno Delanteras peugeot 206", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22466", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "206 1.6"},
+{ "nombre" : "pastillas de freno Delanteras peugeot 206", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22466", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "206 1.9 D"},
+{ "nombre" : "pastillas de freno Delanteras RENAULT R9", "tipo": "delanteras C/SENSOR (GIRLING)", "marca" : "plasbestos", "codigo" : "22055", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "R9"},
+{ "nombre" : "pastillas de freno Delanteras RENAULT R11", "tipo": "delanteras C/SENSOR (GIRLING)", "marca" : "plasbestos", "codigo" : "22055", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "R11"},
+{ "nombre" : "pastillas de freno Delanteras RENAULT R18", "tipo": "delanteras C/SENSOR (GIRLING)", "marca" : "plasbestos", "codigo" : "22055", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "R18"},
+{ "nombre" : "pastillas de freno Delanteras RENAULT R19", "tipo": "delanteras C/SENSOR (GIRLING)", "marca" : "plasbestos", "codigo" : "22055", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "R19"},
+{ "nombre" : "pastillas de freno Delanteras FIAT", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22525", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "fiat", "modelo" : "UNO NOVO 10>"},
+{ "nombre" : "pastillas de freno Delanteras peugeot 106", "tipo": "delanteras CON SENSOR", "marca" : "plasbestos", "codigo" : "22077", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "106"},
+{ "nombre" : "pastillas de freno Delanteras peugeot 306", "tipo": "delanteras CON SENSOR", "marca" : "plasbestos", "codigo" : "22077", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "306"},
+{ "nombre" : "pastillas de freno Delanteras renault logan", "tipo": "delanteras (ARAÑA CHICA)", "marca" : "plasbestos", "codigo" : "22557a", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "logan MOT. 1.6 8V/16V"},
+{ "nombre" : "pastillas de freno Delanteras renault sandero", "tipo": "delanteras (ARAÑA CHICA)", "marca" : "plasbestos", "codigo" : "22557a", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "sandero MOT. 1.6 8V/16V"},
+{ "nombre" : "pastillas de freno Delanteras chevrolet SPARK", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22557a", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "CHEVROLET", "modelo" : "SPARK <08"},
+{ "nombre" : "pastillas de freno Delanteras RENAULT R19", "tipo": "delanteras (DECALE) ASIMETRICA", "marca" : "plasbestos", "codigo" : "22062", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "RENAULT", "modelo" : "R19"},
+{ "nombre" : "pastillas de freno Delanteras RENAULT EXPRESS", "tipo": "delanteras (DECALE) ASIMETRICA", "marca" : "plasbestos", "codigo" : "22062", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "RENAULT", "modelo" : "EXPRESS"},
+{ "nombre" : "pastillas de freno TRASERA HONDA NEW CIVIC", "tipo": "TRASERA", "marca" : "plasbestos", "codigo" : "22314A", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "HONDA", "modelo" : "NEW CIVIC"},
+{ "nombre" : "pastillas de freno TRASERA HONDA CRV", "tipo": "TRASERA", "marca" : "plasbestos", "codigo" : "22314A", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "HONDA", "modelo" : "CRV 12>"},
+{ "nombre" : "pastillas de freno DELANTERA HONDA NEW FIT", "tipo": "DELANTERA", "marca" : "plasbestos", "codigo" : "22524", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "HONDA", "modelo" : "NEW FIT (MOTOR 1.5/1.4 - 16V)"},
+{ "nombre" : "pastillas de freno DELANTERA HONDA CITY", "tipo": "DELANTERA", "marca" : "plasbestos", "codigo" : "22524", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "HONDA", "modelo" : "CITY 09> (MOTOR 1.5/1.4 - 16V)"},
+{ "nombre" : "pastillas de freno DELANTERA CHEVROLET S10", "tipo": "DELANTERA", "marca" : "plasbestos", "codigo" : "22107", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "CHEVROLET", "modelo" : "S10"},
+{ "nombre" : "pastillas de freno DELANTERA CHEVROLET BLAZER", "tipo": "DELANTERA", "marca" : "plasbestos", "codigo" : "22107", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "CHEVROLET", "modelo" : "BLAZER 95>97"},
+
+
+
+
+
+
+
+{ "nombre" : "filtro de aceite FOX", "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 250", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "FOX"},
+{ "nombre" : "filtro de aceite CROSS FOX", "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 250", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "CROSS FOX"},
+{ "nombre" : "filtro de aceite SURAN ", "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 250", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "SURAN 1.6 "},
+{ "nombre" : "filtro de aceite GOL", "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 250", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "GOL 1.0 - 1.6"},
+{ "nombre" : "filtro de aceite GOLF",  "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 977/1", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "GOLF"},
+{ "nombre" : "filtro de aceite POLO",  "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 977/1", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "POLO"},
+{ "nombre" : "filtro de aceite CROSSFOX",  "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 977/1", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "CROSSFOX"},
+{ "nombre" : "filtro de aceite SURAN",  "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 977/1", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "SURAN 1.6 MSI"},
+{ "nombre" : "filtro de aceite UP",  "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 977/1", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "UP 1.0"},
+{ "nombre" : "filtro de aceite VENTO",  "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 977/1", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "VENTO"},
+{ "nombre" : "filtro de aceite GOLF",  "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 977/1", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "GOLF 1.4 TSI"},
+
+{ "nombre" : "filtro de aceite PASSAT",  "tipo" : "cartucho", "marca" : "Mahle", "codigo" : "ox 388 d", "categoria" : "filtros de aceite", "imagen": "/img/cartuchoFiltroAceite.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "PASSAT CC TDI" },
+{ "nombre" : "filtro de aceite AMAROK",  "tipo" : "cartucho", "marca" : "Mahle", "codigo" : "ox 388 d", "categoria" : "filtros de aceite", "imagen": "/img/cartuchoFiltroAceite.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "AMAROK 4X4 AT 2.0 TDI" },
+
+{ "nombre" : "filtro de aceite POLO",  "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 593/3", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "POLO 1.6 16V" },
+
+{ "nombre" : "filtro de aceite POLO CLASSIC",  "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 59", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : " POLO CLASSIC" },
+{ "nombre" : "filtro de aceite GOLF",  "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 59", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "GOLF" },
+{ "nombre" : "filtro de aceite SENDA",  "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 59", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "SENDA" },
+{ "nombre" : "filtro de aceite SAVEIRO",  "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 59", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "SAVEIRO 1.9 SD-1.9 TDI" },
+
+{ "nombre" : "filtro de aceite FOCUS",  "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 232", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : " FOCUS 1.8L DIESEL"},
+{ "nombre" : "filtro de aceite FOCUS",  "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 232", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "FOCUS 1.8 TDCI"},
+{ "nombre" : "filtro de aceite FOCUS",  "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 232", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "FOCUS DURATORQ"},
+{ "nombre" : "filtro de aceite TRANSIT",  "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 232", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : " TRANSIT 2.5 TD E "},
+
+{ "nombre" : "filtro de aceite FIESTA",  "tipo" : "blindado", "marca" : "Mahle",  "codigo" : "oc 606", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "FIESTA 1.6 SIGMA KINETIC DESIGN"},
+{ "nombre" : "filtro de aceite FOCUS",  "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 606", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "FOCUS 1.6 SIGMA KINETIC DESIGN"},
+
+{ "nombre" : "filtro de aceite GOL",  "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 47", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "GOL 1.6"},
+{ "nombre" : "filtro de aceite SAVEIRO",  "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 47", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "SAVEIRO 1.6"},
+{ "nombre" : "filtro de aceite VOYAGE",  "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 47", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "VOYAGE 1.6 "},
+{ "nombre" : "filtro de aceite ESCORT",  "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 47", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "ESCORT 1.6"},
+{ "nombre" : "filtro de aceite ORION",  "tipo" : "blindado", "marca" : "Mahle","codigo" : " oc 47", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "ORION 1.6 "},
+{ "nombre" : "filtro de aceite SEAT",  "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 47", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "SEAT"},
+
+{ "nombre" : "filtro de aceite ford KA", "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 235", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "KA 1.3"},
+{ "nombre" : "filtro de aceite FIESTA", "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 235", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "FIESTA 1.3I 96"},
+{ "nombre" : "filtro de aceite ECOSPORT", "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 235", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "ECOSPORT 2.0"},
+
+{ "nombre" : "filtro de aceite ECOSPORT", "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 266", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "ECOSPORT 1.6 ZETEC ROCAM"},
+{ "nombre" : "filtro de aceite FIESTA", "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 266", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "FIESTA 1.6 ZETEC ROCAM"},
+{ "nombre" : "filtro de aceite ESCORT", "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 266", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "ESCORT 1.8 16V ZETEC"},
+{ "nombre" : "filtro de aceite MONDEO", "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 266", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "MONDEO 1.8"},
+{ "nombre" : "filtro de aceite MONDEO", "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 266", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "MONDEO 2.0 16V"},
+
+{ "nombre" : "filtro de aceite CRONOS", "tipo" : "blindado",  "marca" : "Mahle", "codigo" : "oc 535", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "fiat", "modelo" : "CRONOS 1.3 8V FIRE"},
+
+{  "nombre" : "filtro de aceite SPAZIO", "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 535", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "fiat", "modelo" : "SPAZIO NAFTA"},
+{  "nombre" : "filtro de aceite UNO", "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 535", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "fiat", "modelo" : "UNO NAFTA"},
+{  "nombre" : "filtro de aceite REGATTA", "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 535", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "fiat", "modelo" : "REGATTA NAFTA"},
+{  "nombre" : "filtro de aceite 128", "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 535", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "fiat", "modelo" : "128 NAFTA"},
+
+{ "nombre" : "filtro de aceite RENAULT 9", "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 535", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "RENAULT", "modelo" : "9 TRAFIC"},
+{ "nombre" : "filtro de aceite RENAULT 11", "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 535", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "RENAULT", "modelo" : "11 TRAFIC"},
+{ "nombre" : "filtro de aceite RENAULT 12", "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 535", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "RENAULT", "modelo" : "12 TRAFIC"},
+{ "nombre" : "filtro de aceite RENAULT 18", "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 535", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "RENAULT", "modelo" : "18 TRAFIC"},
+
+{ "nombre" : "filtro de aceite CHERY FACE", "tipo" : "blindado", "marca" : "Mahle", "codigo" : "oc 235", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "CHERY", "modelo" : "FACE 1.3L"},
+
+{ "nombre" : "filtro de aceite audi A1", "tipo" : "blindado", "marca" : "Mahle",  "codigo" : "oc 593/3", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "audi", "modelo" : "A1 1.4 TFSI"},
+{ "nombre" : "filtro de aceite audi A3", "tipo" : "blindado", "marca" : "Mahle",  "codigo" : "oc 593/3", "categoria" : "filtros de aceite", "imagen": "/img/FILTRODEACEITE.jpg", "destacado" : false, "marcaDeAuto" : "audi", "modelo" : "A3 1.4 TFSI"}
+
+
+
+]
+        
+
