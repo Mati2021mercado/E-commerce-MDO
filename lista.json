@@ -20,8 +20,8 @@
 { "nombre" : "1 Litro refrigerante concentrado glacelf supra", "marca" : "Total", "categoria" : "refrigerantes", "imagen": "/img/1LitroRefrigeranteConcentradoGlacelfSupra.jpg", "destacado" : false},
 { "nombre" : "1 Litro refrigerante concentrado glacelf", "marca" : "Total", "imagen": "/img/1LitroRefrigeranteConcentradoGlacelf.jfif",  "destacado" : false},
 
-{ "nombre" : "liquido para frenos 1 Litro", "marca" : "Raybestos",  "categoria" : "liquido para frenos",  "imagen": "/img/liquidoDeFrenosRaybestos1litro.jpg",  "destacado" : true, "precio" : 830},
-{ "nombre" : "liquido para frenos 500 cm3", "marca" : "Raybestos",  "categoria" : "liquido para frenos",  "imagen": "/img/liquidoDeFrenosRaybestosMedioLitro.jpg",  "destacado" : true, "precio" : 1520},
+{ "nombre" : "liquido para frenos 1 Litro", "marca" : "Raybestos",  "categoria" : "liquido para frenos",  "imagen": "/img/liquidoDeFrenosRaybestos1litro.jpg",  "destacado" : true, "precio" : 1520},
+{ "nombre" : "liquido para frenos 500 cm3", "marca" : "Raybestos",  "categoria" : "liquido para frenos",  "imagen": "/img/liquidoDeFrenosRaybestosMedioLitro.jpg",  "destacado" : true, "precio" : 830},
 
 { "nombre" : "H1", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h1.jpg", "codigo": 25511, "destacado" : false, "precio": 299},
 { "nombre" : "H3", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h3.jpg", "codigo": 25531, "destacado" : false, "precio": 299},
