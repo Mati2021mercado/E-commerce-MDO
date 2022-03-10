@@ -44,17 +44,6 @@
 { "nombre" : "12x75", "marca" : "Marelli", "categoria" : "baterias", "imagen": "/img/bateriaMarelli.jfif", "destacado" : true , "precio": 24999},
 
 
-{ "nombre" : "12x75", "marca" : "ACDelco gold", "categoria" : "baterias", "imagen": "/img/bateria-acdelco.png", "destacado" : false},
-{ "nombre" : "12x70", "marca" : "ACDelco gold", "categoria" : "baterias", "imagen": "/img/bateria-acdelco.png", "destacado" : false},
-{ "nombre" : "12x60", "marca" : "ACDelco gold", "categoria" : "baterias", "imagen": "/img/bateria-acdelco.png","destacado" : false},
-{ "nombre" : "12x55", "marca" : "ACDelco gold", "categoria" : "baterias", "imagen": "/img/bateria-acdelco.png", "destacado" : false},
-{ "nombre" : "12x50", "marca" : "ACDelco gold", "categoria" : "baterias", "imagen": "/img/bateria-acdelco.png", "destacado" : false},
-{ "nombre" : "12x45", "marca" : "ACDelco gold", "categoria" : "baterias", "imagen": "/img/bateria-acdelco.png", "destacado" : false},
-
-{ "nombre" : "12x75", "marca" : "ACDelco red", "categoria" : "baterias", "imagen": "/img/acdelcoRedBateria.jpg", "destacado" : false},
-{ "nombre" : "12x70", "marca" : "ACDelco red", "categoria" : "baterias", "imagen": "/img/acdelcoRedBateria.jpg", "destacado" : false},
-{ "nombre" : "12x60", "marca" : "ACDelco red", "categoria" : "baterias", "imagen": "/img/acdelcoRedBateria.jpg", "destacado" : false},
-{ "nombre" : "12x45", "marca" : "ACDdelco red", "categoria" : "baterias", "imagen": "/img/acdelcoRedBateria.jpg", "destacado" : false},
 
 
 { "nombre" : "1 Litro 10W40 Super Leichtlauf (sintetico)", "marca" : "liqui moly",  "categoria" : "aceite para motor", "imagen": "/img/1litro10W-40liquimoly.jpg", "destacado" : true, "precio": 2650}, 

@@ -76,6 +76,7 @@ $("#filtrador").append(`
                 <li><a id="categoria-aceiteHidraulico" class="dropdown-item category-item" href="#">Aceite Hidraulico</a></li>
             </ul>
         </div>
+        <div id="section_pagos"></div>
 
     </nav>
 </header>    
