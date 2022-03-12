@@ -2,9 +2,9 @@
 [
 
 { "nombre" : "Oil Smoke Stop (corta humo)", "marca" : "liqui moly",  "categoria" : "aditivos", "imagen": "/img/OliSmokeStop.jpg", "destacado" : false},
-{ "nombre" : "Injection Reiniger (limpiador de inyectores)", "marca" : "liqui moly",  "categoria" : "aditivos", "imagen": "/img/InjectionReiniger.jpg", "destacado" : true , "precio" : 2539},
+{ "nombre" : "Injection Reiniger (limpiador de inyectores)", "marca" : "liqui moly",  "categoria" : "aditivos", "imagen": "/img/InjectionReiniger.jpg", "destacado" : true , "precio" : 1999},
 { "nombre" : "Diesel-Rub Stop (anti-fumo de gasoleo)", "marca" : "liqui moly",  "categoria" : "aditivos", "imagen": "/img/Diesel-RubStop.jpg", "destacado" : false},
-{ "nombre" : "Diesel systempflege (sistema mantenimiento diesel)", "marca" : "liqui moly",  "categoria" : "aditivos", "imagen": "/img/DieselSystempflege.jpg", "destacado" : true, "precio" : 2919},
+{ "nombre" : "Diesel systempflege (sistema mantenimiento diesel)", "marca" : "liqui moly",  "categoria" : "aditivos", "imagen": "/img/DieselSystempflege.jpg", "destacado" : true, "precio" : 2299},
 { "nombre" : "Diesel-partikelfilter Schutz (proteccion para filtros de particulas diesel)", "marca" : "liqui moly",  "categoria" : "aditivos", "imagen": "/img/Diesel-partikelfilterSchutz.jpg", "destacado" : false},
 { "nombre" : "Kuhler-dichter (tapafugas de radiador)", "marca" : "liqui moly",  "categoria" : "aditivos", "imagen": "/img/Kuhler-dichter.jpg", "destacado" : false},
 { "nombre" : "Wartungs-spray weiss (spray blanco para mantenimiento)", "marca" : "liqui moly",  "categoria" : "aditivos", "imagen": "/img/Wartungs-sprayWeiss.jpg", "destacado" : false},
@@ -12,53 +12,53 @@
 { "nombre" : "Ol-verlust STOP (tapafugas de aceite)", "marca" : "liqui moly",  "categoria" : "aditivos", "imagen": "/img/Ol-verlustSTOP.jpg", "destacado" : false},
 { "nombre" : "drossel-klappen-reiniger", "marca" : "liqui moly",  "categoria" : "aditivos", "imagen": "/img/drossel-klappen-reiniger.jpg", "destacado" : false},
 
-{ "nombre" : "5 Litros agua destilada", "marca" : "Fresh tc", "categoria" : "refrigerantes", "imagen": "/img/aguaDestildada.jpg", "destacado" : true, "precio" : 320},
-{ "nombre" : "6 Litros refrigerante azul", "marca" : "Status", "categoria" : "refrigerantes", "imagen": "/img/6lrefrigeranteazul.jpg",  "destacado" : true, "precio" : 630},
-{ "nombre" : "6 Litros refrigerante rosa", "marca" : "Status", "categoria" : "refrigerantes", "imagen": "/img/6lrefrigeranterosa.jpg",  "destacado" : true, "precio" : 630},
-{ "nombre" : "5 Litros refrigerante amarillo", "marca" : "Motorflu", "categoria" : "refrigerantes", "imagen": "/img/5LitrosRefrigeranteMotorflu.jpg",  "destacado" : true, "precio" : 630},
-{ "nombre" : "1 Litro refrigerante concentrado supra red ", "marca" : "Total", "categoria" : "refrigerantes", "imagen": "/img/1LitroRefrigeranteConcentradoSupraRed.jpg",  "destacado" : true, "precio" : 1270},
+{ "nombre" : "5 Litros agua destilada", "marca" : "Fresh tc", "categoria" : "refrigerantes", "imagen": "/img/aguaDestildada.jpg", "destacado" : true, "precio" : 200},
+{ "nombre" : "6 Litros refrigerante azul", "marca" : "Status", "categoria" : "refrigerantes", "imagen": "/img/6lrefrigeranteazul.jpg",  "destacado" : true, "precio" : 500},
+{ "nombre" : "6 Litros refrigerante rosa", "marca" : "Status", "categoria" : "refrigerantes", "imagen": "/img/6lrefrigeranterosa.jpg",  "destacado" : true, "precio" : 500},
+{ "nombre" : "5 Litros refrigerante amarillo", "marca" : "Motorflu", "categoria" : "refrigerantes", "imagen": "/img/5LitrosRefrigeranteMotorflu.jpg",  "destacado" : true, "precio" : 500},
+{ "nombre" : "1 Litro refrigerante concentrado supra red ", "marca" : "Total", "categoria" : "refrigerantes", "imagen": "/img/1LitroRefrigeranteConcentradoSupraRed.jpg",  "destacado" : true, "precio" : 999},
 { "nombre" : "1 Litro refrigerante concentrado glacelf supra", "marca" : "Total", "categoria" : "refrigerantes", "imagen": "/img/1LitroRefrigeranteConcentradoGlacelfSupra.jpg", "destacado" : false},
 { "nombre" : "1 Litro refrigerante concentrado glacelf", "marca" : "Total", "imagen": "/img/1LitroRefrigeranteConcentradoGlacelf.jfif",  "destacado" : false},
 
-{ "nombre" : "liquido para frenos 1 Litro", "marca" : "Raybestos",  "categoria" : "liquido para frenos",  "imagen": "/img/liquidoDeFrenosRaybestos1litro.jpg",  "destacado" : true, "precio" : 1520},
-{ "nombre" : "liquido para frenos 500 cm3", "marca" : "Raybestos",  "categoria" : "liquido para frenos",  "imagen": "/img/liquidoDeFrenosRaybestosMedioLitro.jpg",  "destacado" : true, "precio" : 830},
+{ "nombre" : "liquido para frenos 1 Litro", "marca" : "Raybestos",  "categoria" : "liquido para frenos",  "imagen": "/img/liquidoDeFrenosRaybestos1litro.jpg",  "destacado" : true, "precio" : 1199},
+{ "nombre" : "liquido para frenos 500 cm3", "marca" : "Raybestos",  "categoria" : "liquido para frenos",  "imagen": "/img/liquidoDeFrenosRaybestosMedioLitro.jpg",  "destacado" : true, "precio" : 650},
 
-{ "nombre" : "H1", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h1.jpg", "codigo": 25511, "destacado" : false, "precio": 299},
-{ "nombre" : "H3", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h3.jpg", "codigo": 25531, "destacado" : false, "precio": 299},
-{ "nombre" : "H4", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h4.jpg", "codigo": 25551, "destacado" : true, "precio": 440},
-{ "nombre" : "H7", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h7.jpg", "codigo": 25571, "destacado" : true, "precio": 750},
-{ "nombre" : "H11", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h11.jpg", "codigo": 25491, "destacado" : false, "precio": 1780},
-{ "nombre" : "Piojito", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/piojito.jpg", "destacado" : true, "precio" : 75},
-{ "nombre" : "Piojito Led", "marca" : "",  "categoria" : "iluminacion", "imagen": "/img/piojitoLed.jpg", "destacado" : false, "precio" : 199},
+{ "nombre" : "H1", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h1.jpg", "codigo": 25511, "destacado" : false, "precio": 240},
+{ "nombre" : "H3", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h3.jpg", "codigo": 25531, "destacado" : false, "precio": 240},
+{ "nombre" : "H4", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h4.jpg", "codigo": 25551, "destacado" : true, "precio": 350},
+{ "nombre" : "H7", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h7.jpg", "codigo": 25571, "destacado" : true, "precio": 600},
+{ "nombre" : "H11", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h11.jpg", "codigo": 25491, "destacado" : false, "precio": 1400},
+{ "nombre" : "Piojito", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/piojito.jpg", "destacado" : true, "precio" : 60},
+{ "nombre" : "Piojito Led", "marca" : "",  "categoria" : "iluminacion", "imagen": "/img/piojitoLed.jpg", "destacado" : false, "precio" : 160},
 { "nombre" : "1 Polo 12V", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/1Polo.jpg", "destacado" : false},
 { "nombre" : "2 Polos 12V", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/2polo.jpg", "destacado" : true },
 
 
-{ "nombre" : "10A fusible plano", "marca" : "Divaio",  "categoria" : "fusibles", "imagen": "/img/fusible10a.jpg", "destacado" : false, "precio": 13},
-{ "nombre" : "15A fusible plano", "marca" : "Divaio",  "categoria" : "fusibles", "imagen": "/img/fusible15a.jpg", "destacado" : false, "precio": 13},
-{ "nombre" : "20A fusible plano", "marca" : "Divaio",  "categoria" : "fusibles", "imagen": "/img/fusible20a.jpg", "destacado" : false, "precio": 13},
-{ "nombre" : "25A fusible plano", "marca" : "Divaio",  "categoria" : "fusibles", "imagen": "/img/fusible25a.jpg", "destacado" : false, "precio": 13},
-{ "nombre" : "30A fusible plano", "marca" : "Divaio",  "categoria" : "fusibles", "imagen": "/img/fusible30a.jpg", "destacado" : false, "precio": 13},
-{ "nombre" : "kit x10 fusibles", "marca" : "Divaio",  "categoria" : "fusibles", "imagen": "/img/kitDivaio.jpg", "destacado" : true, "precio": 115}, 
+{ "nombre" : "10A fusible plano", "marca" : "Divaio",  "categoria" : "fusibles", "imagen": "/img/fusible10a.jpg", "destacado" : false, "precio": 10},
+{ "nombre" : "15A fusible plano", "marca" : "Divaio",  "categoria" : "fusibles", "imagen": "/img/fusible15a.jpg", "destacado" : false, "precio": 10},
+{ "nombre" : "20A fusible plano", "marca" : "Divaio",  "categoria" : "fusibles", "imagen": "/img/fusible20a.jpg", "destacado" : false, "precio": 10},
+{ "nombre" : "25A fusible plano", "marca" : "Divaio",  "categoria" : "fusibles", "imagen": "/img/fusible25a.jpg", "destacado" : false, "precio": 10},
+{ "nombre" : "30A fusible plano", "marca" : "Divaio",  "categoria" : "fusibles", "imagen": "/img/fusible30a.jpg", "destacado" : false, "precio": 10},
+{ "nombre" : "kit x10 fusibles", "marca" : "Divaio",  "categoria" : "fusibles", "imagen": "/img/kitDivaio.jpg", "destacado" : true, "precio": 90}, 
 
-{ "nombre" : "12x75", "marca" : "Marelli", "categoria" : "baterias", "imagen": "/img/bateriaMarelli.jfif", "destacado" : true , "precio": 24999},
-
-
+{ "nombre" : "12x75", "marca" : "Marelli", "categoria" : "baterias", "imagen": "/img/bateriaMarelli.jfif", "destacado" : true , "precio": 17000},
 
 
-{ "nombre" : "1 Litro 10W40 Super Leichtlauf (sintetico)", "marca" : "liqui moly",  "categoria" : "aceite para motor", "imagen": "/img/1litro10W-40liquimoly.jpg", "destacado" : true, "precio": 2650}, 
+
+
+{ "nombre" : "1 Litro 10W40 Super Leichtlauf (sintetico)", "marca" : "liqui moly",  "categoria" : "aceite para motor", "imagen": "/img/1litro10W-40liquimoly.jpg", "destacado" : true, "precio": 2099}, 
 { "nombre" : "1 Litro 5W40 top tec 4100", "marca" : "liqui moly",  "categoria" : "aceite para motor", "imagen": "/img/1L5W-40toptec4100.jpg", "destacado" : false}, 
 { "nombre" : "1 Litro 5W30 evolution full-tech MSX", "marca" : "elf",  "categoria" : "aceite para motor", "imagen": "/img/1L5W-30evolutionfull-techMSX.jpg", "destacado" : false}, 
 
 { "nombre" : "4 Litros 10W40 7000 (semi-sintetico)", "marca" : "total",  "categoria" : "aceite para motor", "imagen": "/img/4L-10W-40-7000Total.jpg", "destacado" : true}, 
-{ "nombre" : "4 Litros 10W40 Super Leichtlauf (sintetico)", "marca" : "liqui moly",  "categoria" : "aceite para motor", "imagen": "/img/4L-10W-40SuperLeichtlauf.jpg", "destacado" : true, "precio" : 7599},  
-{ "nombre" : "4 Litros 10W40 Leichtlauf Performance (semi-sintetico)", "marca" : "liqui moly",  "categoria" : "aceite para motor", "imagen": "/img/4L-10W-40LeichtlaufPerformance.png", "destacado" : false, "precio" : 5399},  
+{ "nombre" : "4 Litros 10W40 Super Leichtlauf (sintetico)", "marca" : "liqui moly",  "categoria" : "aceite para motor", "imagen": "/img/4L-10W-40SuperLeichtlauf.jpg", "destacado" : true, "precio" : 6000},  
+{ "nombre" : "4 Litros 10W40 Leichtlauf Performance (semi-sintetico)", "marca" : "liqui moly",  "categoria" : "aceite para motor", "imagen": "/img/4L-10W-40LeichtlaufPerformance.png", "destacado" : false, "precio" : 4250},  
 { "nombre" : "4 Litros 5W40 top tec 4100 (sintetico)", "marca" : "liqui moly",  "categoria" : "aceite para motor", "imagen": "/img/4L-5W-40TopTec4100.jpg", "destacado" : false},
 { "nombre" : "4 Litros 5W40 9000 (sintetico)", "marca" : "total",  "categoria" : "aceite para motor", "imagen": "/img/4L-5W-40-9000Total.jpg", "destacado" : false},  
 { "nombre" : "4 Litros 5W30 SAE (sintetico)", "marca" : "ACDelco",  "categoria" : "aceite para motor", "imagen": "/img/4L-5W-30SAEACDELCO.jpg", "destacado" : false},  
 
 
-{ "nombre" : "1 Litro SAE 75W tranself NFK", "marca" : "elf",  "categoria" : "aceite para caja", "imagen": "/img/ELF1litroSAE75WtranselfNFK.jfif", "destacado" : false}, 
+{ "nombre" : "1 Litro SAE 75W tranself NFK", "marca" : "elf",  "categoria" : "aceite para caja", "imagen": "/img/ELF1litroSAE75WtranselfNFK.jfif", "destacado" : false}, git 
 
 
 
