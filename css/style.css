@@ -448,12 +448,12 @@ section.vender{
     
 }
 
-.main_pagos{
+.body_pagos .main_pagos{
     background-color: #fff;
     margin: 0px 120px;
 }
 
-.container_pagos{
+.body_pagos .main_pagos .container_pagos{
     
     font-size: 1rem;
     font-weight: 400;
@@ -470,13 +470,12 @@ section.vender{
     max-width: 1200px;
 }
 
-.container_pagos_div{
+.container_pagos .container_pagos_div{
     padding: 60px 150px;
     
 }
 
-
-.container_pagos_div_div h1{
+.container_pagos_div .container_pagos_div_div h1{
     font-weight: 600;
     font-size: 25px;
     color: #666;
@@ -486,15 +485,15 @@ section.vender{
     font-family: 'Montserrat', sans-serif;
 }
 
-.container_pagos_div_div h3 span{
+.container_pagos_div .container_pagos_div_div h3 span{
     font-family: 'Montserrat', sans-serif;
 }
 
-.container_pagos_div_div p{
+.container_pagos_div .container_pagos_div_div p{
     font-family: 'Montserrat', sans-serif;
 }
 
-.container_pagos_div_div ul{
+.container_pagos_div .container_pagos_div_div ul{
     font-family: 'Montserrat', sans-serif;
     padding: 0px 35px;
 }
@@ -522,15 +521,7 @@ section.vender{
 
 
 
-
-
-
-
-
-
-
-
-.contenedor_section-pagos{
+#section_pagos .contenedor_section-pagos{
     display: flex;
     justify-content: center;
     height: 50px;
@@ -538,7 +529,7 @@ section.vender{
     margin-top: 10px;
     
 }
-.contenedor_section-pagos div a{
+#section_pagos .contenedor_section-pagos div a{
     text-decoration: none;
     padding-left: 5px;
 }
