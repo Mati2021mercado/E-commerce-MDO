@@ -111,6 +111,21 @@ h1{
     transition: 1s;
 }
 
+
+
+#section_pagos .contenedor_section-pagos{
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    align-items: center;
+    margin-top: 10px;
+    
+}
+#section_pagos .contenedor_section-pagos div a{
+    text-decoration: none;
+    padding-left: 5px;
+}
+
 .producto{
     display: flex;
     background-color: #fff;
@@ -387,59 +402,6 @@ section.vender{
     transform: scale(1.4);
 }
 
-.section_pagos{
-    color: #fff;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding: 9px;
-    
-
-}
-
-.section_pagos_contenedor_list{
-    font-size: 1.5rem;
-    margin: 25px;
-}
-.section_pagos_contenedor_list li{
-    font-size: 1.25rem;
-}
-
-
-@media screen and (max-width: 850px) {
-
-
-    .main_envios{
-        display: flex;
-        background-image: url(../img/fondo1.webp);
-        background-repeat: no-repeat;
-        height: 100vh;
-        flex-grow: 1;
-        flex-direction: column;
-    
-    }
-    .vender__titulo2 {
-        border-bottom: 5px solid #fff;
-        
-    } 
-    .section_pagos{
-        margin-top: -20%;
-    }
-    .section_pagos h3{
-        font-size:  1.4rem;
-    }
-    .section_pagos h4{
-        font-size:  1.1rem;
-        text-align: center;
-        margin: 9px 0px;
-    }
-    .section_pagos p{
-        font-size: 1.15rem;
-    }
-
-}
-
 
 
 
@@ -500,6 +462,8 @@ section.vender{
 
 
 
+
+
 @media screen and (max-width: 850px){
     .main_pagos{
         margin: 0px;
@@ -519,17 +483,36 @@ section.vender{
 
 
 
+@media screen and (max-width: 850px) {
 
 
-#section_pagos .contenedor_section-pagos{
-    display: flex;
-    justify-content: center;
-    height: 50px;
-    align-items: center;
-    margin-top: 10px;
+    .main_envios{
+        display: flex;
+        background-image: url(../img/fondo1.webp);
+        background-repeat: no-repeat;
+        height: 100vh;
+        flex-grow: 1;
+        flex-direction: column;
     
+    }
+    .vender__titulo2 {
+        border-bottom: 5px solid #fff;
+        
+    } 
+    .container_pagos_div_div{
+        margin-top: -20%;
+    }
+    .container_pagos_div_div h3{
+        font-size:  1.4rem;
+    }
+    .container_pagos_div_div h4{
+        font-size:  1.1rem;
+        text-align: center;
+        margin: 9px 0px;
+    }
+    .container_pagos_div_divs p{
+        font-size: 1.15rem;
+    }
+
 }
-#section_pagos .contenedor_section-pagos div a{
-    text-decoration: none;
-    padding-left: 5px;
-}
+
