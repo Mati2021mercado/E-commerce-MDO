@@ -3,7 +3,7 @@ $("#filtrador").append(`
 <header>
     
     <box-icon  href="#" id="barra_categorias" name='menu' color='#080000' ></box-icon>
-    <a href="#" id="home"> <h1> <b>MDO</b> repuestos</h1> </a>
+    <a href="#" id="home"> <h1 class="index-title"> <b>MDO</b> repuestos</h1> </a>
     <a href="./pages/envios.html" class="envios_link"><b>envíos</b></a>
     <a href="https://www.google.com/maps/place/MDO+Repuestos/@-34.6478242,-58.6664424,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcbf001ba264d7:0x549151470f975181!8m2!3d-34.6478242!4d-58.6642537" class="ubicacion_link"> ubicación Defilippi 865, Ituzaingó </a>
     <div class="contenedor_form"></div>

@@ -5,7 +5,7 @@ $("#section_pagos").append(`
         </div>
         <div>
             <span>
-                <a href="./pages/pagos.html">Formas de Pago </a>
+                <a href="./pages/formasDePago.html">Formas de Pago </a>
             </span>
         </div>
         
