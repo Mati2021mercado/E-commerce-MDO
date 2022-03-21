@@ -46,20 +46,19 @@
 
 
 
-{ "nombre" : "1 Litro 10W40 Super Leichtlauf (sintetico)", "marca" : "liqui moly",  "categoria" : "aceite para motor", "imagen": "/img/1litro10W-40liquimoly.jpg", "destacado" : true, "precio": 2099}, 
-{ "nombre" : "1 Litro 5W40 top tec 4100 (sintetico)", "marca" : "liqui moly",  "categoria" : "aceite para motor", "imagen": "/img/1L5W-40toptec4100.jpg", "destacado" : false}, 
-{ "nombre" : "1 Litro 5W30 evolution full-tech MSX (sintetico)", "marca" : "elf",  "categoria" : "aceite para motor", "imagen": "/img/1L5W-30evolutionfull-techMSX.jpg", "destacado" : false}, 
+{ "nombre" : "1 Litro 10W40 Super Leichtlauf (sintetico)", "marca" : "liqui moly",  "categoria" : "aceite para motor", "imagen": "/img/1litro10W-40liquimoly.jpg", "destacado" : true, "precio": 2199}, 
+{ "nombre" : "1 Litro 5W40 top tec 4100 (sintetico)", "marca" : "liqui moly",  "categoria" : "aceite para motor", "imagen": "/img/1L5W-40toptec4100.jpg", "destacado" : false, "precio": 2890}, 
+{ "nombre" : "1 Litro 5W30 evolution full-tech MSX (sintetico)", "marca" : "elf",  "categoria" : "aceite para motor", "imagen": "/img/1L5W-30evolutionfull-techMSX.jpg", "destacado" : false, "precio": 2790}, 
 
-{ "nombre" : "1 Litro 10W40 7000 (semi-sintetico)", "marca" : "total",  "categoria" : "aceite para motor", "imagen": "/img/1LT10w40Total7000.jpg", "destacado" : true}, 
+{ "nombre" : "1 Litro 10W40 7000 (semi-sintetico)", "marca" : "total",  "categoria" : "aceite para motor", "imagen": "/img/1LT10w40Total7000.jpg", "destacado" : true, "precio": 1550}, 
 
-{ "nombre" : "4 Litros 10W40 7000 (semi-sintetico)", "marca" : "total",  "categoria" : "aceite para motor", "imagen": "/img/4L-10W-40-7000Total.jpg", "destacado" : true}, 
-{ "nombre" : "4 Litros 10W40 Super Leichtlauf (sintetico)", "marca" : "liqui moly",  "categoria" : "aceite para motor", "imagen": "/img/4L-10W-40SuperLeichtlauf.jpg", "destacado" : true, "precio" : 6000},  
-{ "nombre" : "4 Litros 10W40 Leichtlauf Performance (semi-sintetico)", "marca" : "liqui moly",  "categoria" : "aceite para motor", "imagen": "/img/4L-10W-40LeichtlaufPerformance.png", "destacado" : false, "precio" : 4250},  
-{ "nombre" : "4 Litros 5W40 top tec 4100 (sintetico)", "marca" : "liqui moly",  "categoria" : "aceite para motor", "imagen": "/img/4L-5W-40TopTec4100.jpg", "destacado" : false},
+{ "nombre" : "4 Litros 10W40 7000 (semi-sintetico)", "marca" : "total",  "categoria" : "aceite para motor", "imagen": "/img/4L-10W-40-7000Total.jpg", "destacado" : true, "precio": 4490}, 
+{ "nombre" : "4 Litros 10W40 Super Leichtlauf (sintetico)", "marca" : "liqui moly",  "categoria" : "aceite para motor", "imagen": "/img/4L-10W-40SuperLeichtlauf.jpg", "destacado" : true, "precio" : 7990},  
+{ "nombre" : "4 Litros 10W40 Leichtlauf Performance (semi-sintetico)", "marca" : "liqui moly",  "categoria" : "aceite para motor", "imagen": "/img/4L-10W-40LeichtlaufPerformance.png", "destacado" : false, "precio" : 5790},  
+{ "nombre" : "4 Litros 5W40 top tec 4100 (sintetico)", "marca" : "liqui moly",  "categoria" : "aceite para motor", "imagen": "/img/4L-5W-40TopTec4100.jpg", "destacado" : false, "precio": 10550},
+
 { "nombre" : "4 Litros 5W40 9000 (sintetico)", "marca" : "total",  "categoria" : "aceite para motor", "imagen": "/img/4L-5W-40-9000Total.jpg", "destacado" : false},  
 { "nombre" : "4 Litros 5W30 SAE (sintetico)", "marca" : "ACDelco",  "categoria" : "aceite para motor", "imagen": "/img/4L-5W-30SAEACDELCO.jpg", "destacado" : false},  
-
-
 { "nombre" : "1 Litro SAE 75W tranself NFK", "marca" : "elf",  "categoria" : "aceite para caja", "imagen": "/img/ELF1litroSAE75WtranselfNFK.jfif", "destacado" : false},  
 
 
