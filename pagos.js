@@ -10,6 +10,9 @@ $("#section_pagos").append(`
         </div>
         
     </div>
+    <div class="parrafo_descuento">
+        <a href="./pages/formasDePago.html">Aprovecha nuestro 8% DE DESCUENTO</a>
+    </div>
 
 `)
     

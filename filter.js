@@ -3,7 +3,7 @@ $("#filtrador").append(`
 <header>
     
     <box-icon  href="#" id="barra_categorias" name='menu' color='#080000' ></box-icon>
-    <a href="#" id="home"> <h1 class="index-title"> <b>MDO</b> repuestos</h1> </a>
+    <a href="#" id="home"> <h1 class="index-title"> <b>MDO</b> Repuestos</h1> </a>
     <a href="./pages/envios.html" class="envios_link"><b>envíos</b></a>
     <a href="https://www.google.com/maps/place/MDO+Repuestos/@-34.6478242,-58.6664424,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcbf001ba264d7:0x549151470f975181!8m2!3d-34.6478242!4d-58.6642537" class="ubicacion_link"> ubicación Defilippi 865, Ituzaingó </a>
     <div class="contenedor_form"></div>
@@ -13,7 +13,16 @@ $("#filtrador").append(`
         <h2 class="title_categorias">  Categorías </h2> 
         <a id="categoria-baterias" class="category-item"> Baterias </a>
         
-
+        <div class="dropdown category-item">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                Lubricantes/Aceites
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                <li><a id="categoria-paraMotor" class="dropdown-item category-item" href="#">Aceite para Motor</a></li>
+                <li><a id="categoria-paraCaja" class="dropdown-item category-item" href="#">Aceite para Caja</a></li>
+                <li><a id="categoria-aceiteHidraulico" class="dropdown-item category-item" href="#">Aceite Hidraulico</a></li>
+            </ul>
+        </div>
         <div class="dropdown category-item">
             <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
                 Suspensión
@@ -65,17 +74,6 @@ $("#filtrador").append(`
         </div>
 
         <a id="categoria-aditivos" class="category-item"> Aditivos </a>
-
-        <div class="dropdown category-item">
-            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
-                Lubricantes
-            </button>
-            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                <li><a id="categoria-paraMotor" class="dropdown-item category-item" href="#">Aceite para Motor</a></li>
-                <li><a id="categoria-paraCaja" class="dropdown-item category-item" href="#">Aceite para Caja</a></li>
-                <li><a id="categoria-aceiteHidraulico" class="dropdown-item category-item" href="#">Aceite Hidraulico</a></li>
-            </ul>
-        </div>
         
 
     </nav>

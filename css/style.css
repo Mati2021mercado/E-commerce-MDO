@@ -128,6 +128,16 @@ h1.index-title{
     padding-left: 5px;
 }
 
+.parrafo_descuento {
+    text-align: center;
+}
+
+.parrafo_descuento a{
+    text-decoration: none;
+    color: #17d605;
+    font-size: 1.1rem;
+}
+
 .producto{
     display: flex;
     background-color: #fff;
