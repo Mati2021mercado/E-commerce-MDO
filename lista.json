@@ -41,7 +41,9 @@
 { "nombre" : "30A fusible plano", "marca" : "Divaio",  "categoria" : "fusibles", "imagen": "/img/fusible30a.jpg", "destacado" : false, "precio": 10},
 { "nombre" : "kit x10 fusibles", "marca" : "Divaio",  "categoria" : "fusibles", "imagen": "/img/kitDivaio.jpg", "destacado" : true, "precio": 90}, 
 
-{ "nombre" : "12x75", "marca" : "Marelli", "categoria" : "baterias", "imagen": "/img/bateriaMarelli.jfif", "destacado" : true , "precio": 17000},
+{ "nombre" : "12x75", "marca" : "Marelli", "categoria" : "baterias", "imagen": "/img/bateriaMarelli.jfif", "destacado" : true , "precio": 18500},
+{ "nombre" : "12x45", "marca" : "Marelli", "categoria" : "baterias", "imagen": "/img/ets45dro.jpg", "destacado" : true , "precio": 16200},
+{ "nombre" : "12x50", "marca" : "Heliar", "categoria" : "baterias", "imagen": "/img/f50dg.jpg", "destacado" : true , "precio": 17250},
 
 
 
