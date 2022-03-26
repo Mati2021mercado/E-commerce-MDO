@@ -31,11 +31,11 @@ function itemView(item){
         if (item.precio) {
             $("#lista-productos").append(`
             <div class="producto">
-                <p class="producto_precio">$${item.precio}</p>
+                
                 <img class="imagen_producto" src="${item.imagen}" alt=${item.nombre} ${item.marca} />
                 <div class="producto_parrafo">
                     <p> ${item.nombre}  ${item.marca}</p> 
-
+                    <p class="producto_precio">$ ${item.precio}</p>
                     <div action="" class="formulariowtsp contenedor_consulta">
 
                         <button type="submit" class="btnwtsp sendbttn">consultar stok</button>
