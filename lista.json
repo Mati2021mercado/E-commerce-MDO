@@ -23,11 +23,11 @@
 { "nombre" : "liquido para frenos 1 Litro", "marca" : "Raybestos",  "categoria" : "liquido para frenos",  "imagen": "/img/liquidoDeFrenosRaybestos1litro.jpg",  "destacado" : true, "precio" : 1.259},
 { "nombre" : "liquido para frenos 500 cm3", "marca" : "Raybestos",  "categoria" : "liquido para frenos",  "imagen": "/img/liquidoDeFrenosRaybestosMedioLitro.jpg",  "destacado" : true, "precio" : 680},
 
-{ "nombre" : "H1", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h1.jpg", "codigo": 25511, "destacado" : false, "precio": 250},
-{ "nombre" : "H3", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h3.jpg", "codigo": 25531, "destacado" : false, "precio": 250},
-{ "nombre" : "H4", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h4.jpg", "codigo": 25551, "destacado" : true, "precio": 365},
-{ "nombre" : "H7", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h7.jpg", "codigo": 25571, "destacado" : true, "precio": 630},
-{ "nombre" : "H11", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h11.jpg", "codigo": 25491, "destacado" : false, "precio": 1.469},
+{ "nombre" : "H1", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h1.jpg", "codigo": 25511, "destacado" : false, "precio": 330},
+{ "nombre" : "H3", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h3.jpg", "codigo": 25531, "destacado" : false, "precio": 340},
+{ "nombre" : "H4", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h4.jpg", "codigo": 25551, "destacado" : true, "precio": 380},
+{ "nombre" : "H7", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h7.jpg", "codigo": 25571, "destacado" : true, "precio": 450},
+{ "nombre" : "H11", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h11.jpg", "codigo": 25491, "destacado" : false, "precio": 1.500},
 { "nombre" : "Piojito", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/piojito.jpg", "destacado" : true, "precio" : 65},
 { "nombre" : "Piojito Led", "marca" : "",  "categoria" : "iluminacion", "imagen": "/img/piojitoLed.jpg", "destacado" : true, "precio" : 170},
 { "nombre" : "1 Polo 12V", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/1Polo.jpg", "destacado" : false},
@@ -41,9 +41,9 @@
 { "nombre" : "30A fusible plano", "marca" : "Divaio",  "categoria" : "fusibles", "imagen": "/img/fusible30a.jpg", "destacado" : false, "precio": 10},
 { "nombre" : "kit x10 fusibles", "marca" : "Divaio",  "categoria" : "fusibles", "imagen": "/img/kitDivaio.jpg", "destacado" : true, "precio": 90}, 
 
-{ "nombre" : "12x75", "marca" : "Marelli", "categoria" : "baterias", "imagen": "/img/bateriaMarelli.jfif", "destacado" : true , "precio": 18.499},
-{ "nombre" : "12x45", "marca" : "Marelli", "categoria" : "baterias", "imagen": "/img/ets45dro.jpg", "destacado" : true , "precio": 16.199},
-{ "nombre" : "12x50", "marca" : "Heliar", "categoria" : "baterias", "imagen": "/img/f50dg.jpg", "destacado" : true , "precio": 17.249},
+{ "nombre" : "12x75", "marca" : "Marelli", "categoria" : "baterias", "imagen": "/img/bateriaMarelli.jfif", "destacado" : true , "precio": 21.000},
+{ "nombre" : "12x45", "marca" : "Marelli", "categoria" : "baterias", "imagen": "/img/ets45dro.jpg", "destacado" : true , "precio": 17.500},
+{ "nombre" : "12x50", "marca" : "Heliar", "categoria" : "baterias", "imagen": "/img/f50dg.jpg", "destacado" : true , "precio": 18650},
 
 
 
