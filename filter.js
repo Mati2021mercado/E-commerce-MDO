@@ -84,7 +84,7 @@ $("#categoria-baterias").on("click", ()=>{ filtrarCategoria("baterias") })
 $("#categoria-encendido").on("click", ()=>{ filtrarCategoria("encendido") })
 $("#categoria-inyeccion").on("click", ()=>{ filtrarCategoria("inyeccion") })
 
-$("#categoria-bombasDeAgua").on("click", ()=>{ filtrarCategoria("bombas de agua") })
+$("#categoria-bombasDeAgua").on("click", ()=>{ filtrarCategoria("bomba de agua") })
 $("#categoria-aditivos").on("click", ()=>{ filtrarCategoria("aditivos") })
 $("#categoria-distribucion").on("click", ()=>{ filtrarCategoria("distribucion") })
 $("#categoria-filtroAceite").on("click", ()=>{ filtrarCategoria("filtros de aceite") })
