@@ -25,11 +25,11 @@
 { "nombre" : "liquido para frenos 1 Litro", "marca" : "Raybestos",  "categoria" : "liquido para frenos",  "imagen": "/img/liquidoDeFrenosRaybestos1litro.jpg",  "destacado" : true, "precio" : 1.259},
 { "nombre" : "liquido para frenos 500 cm3", "marca" : "Raybestos",  "categoria" : "liquido para frenos",  "imagen": "/img/liquidoDeFrenosRaybestosMedioLitro.jpg",  "destacado" : true, "precio" : 680},
 
-{ "nombre" : "H1", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h1.jpg", "codigo": 25511, "destacado" : false, "precio": 250},
-{ "nombre" : "H3", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h3.jpg", "codigo": 25531, "destacado" : false, "precio": 250},
-{ "nombre" : "H4", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h4.jpg", "codigo": 25551, "destacado" : true, "precio": 365},
-{ "nombre" : "H7", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h7.jpg", "codigo": 25571, "destacado" : true, "precio": 630},
-{ "nombre" : "H11", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h11.jpg", "codigo": 25491, "destacado" : false, "precio": 1.469},
+{ "nombre" : "H1", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h1.jpg", "codigo": 25511, "destacado" : false, "precio": 330},
+{ "nombre" : "H3", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h3.jpg", "codigo": 25531, "destacado" : false, "precio": 340},
+{ "nombre" : "H4", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h4.jpg", "codigo": 25551, "destacado" : true, "precio": 380},
+{ "nombre" : "H7", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h7.jpg", "codigo": 25571, "destacado" : true, "precio": 450},
+{ "nombre" : "H11", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h11.jpg", "codigo": 25491, "destacado" : false, "precio": 1.500},
 { "nombre" : "Piojito", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/piojito.jpg", "destacado" : true, "precio" : 65},
 { "nombre" : "Piojito Led", "marca" : "",  "categoria" : "iluminacion", "imagen": "/img/piojitoLed.jpg", "destacado" : true, "precio" : 170},
 { "nombre" : "1 Polo 12V", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/1Polo.jpg", "destacado" : false},
@@ -62,7 +62,7 @@
 { "nombre" : "4 Litros 10W40 Leichtlauf Performance (semi-sintetico)", "marca" : "liqui moly",  "categoria" : "aceite para motor", "imagen": "/img/4L-10W-40LeichtlaufPerformance.png", "destacado" : false, "precio" : 5.799},  
 { "nombre" : "4 Litros 5W40 top tec 4100 (sintetico)", "marca" : "liqui moly",  "categoria" : "aceite para motor", "imagen": "/img/4L-5W-40TopTec4100.jpg", "destacado" : false, "precio": 10.559},
 
-{ "nombre" : "4 Litros 5W40 9000 (sintetico)", "marca" : "total",  "categoria" : "aceite para motor", "imagen": "/img/4L-5W-40-9000Total.jpg", "destacado" : false},  
+{ "nombre" : "4 Litros 5W40 9000 (sintetico)", "marca" : "total",  "categoria" : "aceite para motor", "imagen": "/img/4L-5W-40-9000Total.jpg", "destacado" : false},
 { "nombre" : "4 Litros 5W30 SAE (sintetico)", "marca" : "ACDelco",  "categoria" : "aceite para motor", "imagen": "/img/4L-5W-30SAEACDELCO.jpg", "destacado" : false},  
 { "nombre" : "1 Litro SAE 75W tranself NFK", "marca" : "elf",  "categoria" : "aceite para caja", "imagen": "/img/ELF1litroSAE75WtranselfNFK.jfif", "destacado" : false},  
 
