@@ -8,6 +8,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200&display=swap');
 
 
 
@@ -328,156 +329,6 @@ h1.index-title{
 
 
 
-    
-
-
-
-
-.main_envios{
-    padding: 0;
-    margin: 0;
-    display: flex;
-    background-image: url(../img/fondo1.webp);
-    background-repeat: no-repeat;
-    height: 100vh;
-    flex-grow: 1;
-    flex-direction: row-reverse;
-
-}
-
-.main_envios section{
-    flex-grow: 1;
-    padding: 0;
-    margin: 0;
-}
-
-.main_envios section.vender{
-    display: flex;
-}
-
-.main_envios .section_pagos{
-    color: #fff;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
-    padding: 50px;
-    font-size: 1.1rem;
-}
-
-.main_envios .section_pagos p{
-    font-family: Montserrat, sans-serif;
-    font-size: 1rem;
-}
-
-.main_envios .section_pagos div ul li{
-    
-    list-style: none;
-}
-
-
-
-.vender__content {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: start;
-    padding: 10px;
-}
-
-.vender__parrafo {
-    text-align: center;
-    font-size: 1.4rem;
-    font-family: 'Open Sans';
-    font-weight: 300;
-    color: #fff;
-    max-width: 28rem;   
-    margin-top: 9px; 
-    line-height: 30px;
-    
-    
-} 
-.vender__parrafo--bold {
-    font-weight: bold;
-}
-
-.vender__titulo{
-    font-size: 3rem;
-    font-family:'Oswald';
-    color: #ffffff;
-    letter-spacing: .6rem;
-}
-
-.vender__titulo2 {
-    border-bottom: 5px solid #6724F3;
-    padding-bottom: 9px;
-} 
-
-.vender__titulo--uno{
-    margin-left: -20px;
-    
-}
-.a-Volver{
-    transform: scale(1.2);
-    padding: 5px;
-    font-weight: bold;
-    text-decoration: none;
-    border: none;
-    border-radius: 8px;
-    font-size: 1.2rem;
-}
-
-.a-Volver:hover{
-    transition: .3s;
-    transform: scale(1.4);
-}
-
-
-
-
-
-
-@media screen and (max-width: 850px) {
-
-
-    .main_envios{
-        display: flex;
-        background-image: url(../img/fondo1.webp);
-        background-repeat: no-repeat;
-        height: 100vh;
-        flex-grow: 1;
-        flex-direction: column;
-    
-    }
-    .main_envios .section_pagos{
-       
-        padding: 20px;
-    }
-    .vender__titulo2 {
-        border-bottom: 5px solid #fff;
-        
-    } 
-    .container_pagos_div_div{
-        margin-top: -20%;
-    }
-    .container_pagos_div_div h3{
-        font-size:  1.4rem;
-    }
-    .container_pagos_div_div h4{
-        font-size:  1.1rem;
-        text-align: center;
-        margin: 9px 0px;
-    }
-    .container_pagos_div_divs p{
-        font-size: 1.15rem;
-    }
-
-}
-
-
-
-
 
 
 
@@ -552,3 +403,196 @@ h1.index-title{
         padding-top: 20px;
     }
 }
+
+
+
+
+
+
+
+
+
+
+.body_envios{
+    background-color: #eee;
+}
+
+.section_envios{
+    height: 350px;
+}
+
+.header_envios{
+    background-color: #222;
+}
+
+
+
+
+.header_envios img{
+    height: 55px;
+    padding: 4px;
+    border-radius: 10px;
+    margin-left: 5%;
+}
+
+
+
+
+.section_image_envios{
+    height: 0;
+}
+
+.section_image_envios img{
+    min-height: 350px;
+    object-fit: cover;
+}
+
+.envios_div_texto{
+    margin-top: 40px;
+    padding: 2%;
+    width: 300px;
+}
+
+.envios_div_texto_h1{
+    
+    font-size: 1.7rem;
+    letter-spacing: 1px;
+    color: #fff;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.envios_div_texto_parrafo{
+    font-size: 1.17rem;
+    letter-spacing: 1px;
+
+    color: #fff;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+.envios_div_texto_parrafo a{
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(8, 20, 180);
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.section_envios_a_link{
+    margin-top: 35px;
+    display: flex;
+    justify-content: center;
+}
+.section_envios_a_link a{
+    padding: 4px;
+    text-decoration: none;
+    font-size: 1.8rem;
+    box-shadow: 0px 1px 4px 2px rgba(0, 0, 0, 0.2);
+    border-radius: 9px;
+    background-color: rgb(21, 206, 58);
+    color: #fff;
+}
+
+.section_envios_a_link:hover a{
+    color: rgb(0, 139, 238) ;
+    transition: 0.25s;
+}
+
+
+.section_envios_mdo .section_envios_mdo_div-contenedor div{
+    padding: 25px;
+    font-size: 1.3rem;
+    border-radius: 2px;
+    background-color: #fff;
+    margin: 15px;
+    box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
+    color: #5a5050;
+}
+    
+
+.section_envios_mdo .section_envios_mdo_div-contenedor div b{
+    display: flex;
+    justify-content: center;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    color: #000;
+    margin-bottom: 10px;
+
+}
+
+
+
+
+
+
+
+@media screen and (min-width: 600px) {
+
+    .section_envios_a_link{
+        margin-top: 80px;
+    }
+    .section_envios_a_link a{
+        transform: scale(1.6);
+    }
+    .header_envios{
+        background-color: #222;
+    }
+
+    .header_envios img{
+        height: 55px;
+        padding: 4px;
+        border-radius: 10px;
+    }
+
+    .section_envios{
+        height: 600px;
+    }
+    
+    .section_image_envios{
+        height: 0;
+    }
+    .section_image_envios img{
+        height: 600px;
+        width: 100%;
+        background-attachment: local;
+        object-fit: cover;
+        object-position: 100% 100%;
+    }
+
+    .envios_div_texto{
+        margin-top: 0;
+        padding: 0;
+        margin-top: 13%;
+        margin-left: 10%;
+        width: 600px;
+    }
+    
+    
+    .envios_div_texto_h1{
+        
+        letter-spacing: 1px;
+        font-size: 3.5rem;
+        color: #fff;
+        font-family: 'Plus Jakarta Sans', sans-serif;
+    }
+    .envios_div_texto_parrafo{
+        font-size: 1.3rem;
+        color: #fff;
+        font-family: 'Plus Jakarta Sans', sans-serif;
+    }
+    .envios_div_texto_parrafo a{
+        font-weight: bold;
+        color: rgb(8, 20, 180);
+        font-family: 'Plus Jakarta Sans', sans-serif;
+    }
+    .section_envios_mdo_div-contenedor{
+        display: flex;
+        flex-direction: row;
+        align-content: center;
+        justify-content: center;
+    }
+    .section_envios_mdo .section_envios_mdo_div-contenedor div{
+        width: 300px;
+    }
+    
+    
+}
+
+
+
