@@ -136,11 +136,12 @@ h1.index-title{
     text-align: center;
 }
 
-.parrafo_descuento a{
+.parrafo_descuento p{
     text-decoration: none;
-    color: #17d605;
+    color: #000000;
     font-size: 1.1rem;
 }
+
 
 .producto{
 
@@ -170,7 +171,6 @@ h1.index-title{
 .producto_parrafo {
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
     text-align: start;
     font-size: 1rem;
     padding: 0px 9px;
@@ -517,6 +517,13 @@ h1.index-title{
 }
 
 
+.icon_wp{
+    width: 60px;
+    height: 60px;
+    position: fixed;
+    right: 11px;
+    bottom: 11px;
+}
 
 
 
