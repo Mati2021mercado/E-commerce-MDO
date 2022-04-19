@@ -82,10 +82,10 @@ function itemView(item){
         let mensaje = `Hola, deseo consultar el precio y si hay stock del articulo: ${item.nombre}`;
         if (item.codigo) {
             let codigo = item.codigo;
-            let url = "https://api.whatsapp.com/send?phone=+541151390531&text=" + mensaje + ` codigo: ${codigo}` + "%0A";
+            let url = "https://api.whatsapp.com/send?phone=+541160926421&text=" + mensaje + ` codigo: ${codigo}` + "%0A";
             window.open(url);
         }else{
-            let url = "https://api.whatsapp.com/send?phone=+541151390531&text=" + mensaje + "%0A";
+            let url = "https://api.whatsapp.com/send?phone=+541160926421&text=" + mensaje + "%0A";
             window.open(url);
         }
     
