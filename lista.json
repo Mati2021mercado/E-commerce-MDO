@@ -22,14 +22,14 @@
 { "nombre" : "1 Litro refrigerante concentrado glacelf supra", "marca" : "Total", "categoria" : "refrigerantes", "imagen": "/img/1LitroRefrigeranteConcentradoGlacelfSupra.jpg", "destacado" : false},
 { "nombre" : "1 Litro refrigerante concentrado glacelf", "marca" : "Total", "imagen": "/img/1LitroRefrigeranteConcentradoGlacelf.jfif",  "destacado" : false},
 
-{ "nombre" : "liquido para frenos 1 Litro", "marca" : "Raybestos",  "categoria" : "liquido para frenos",  "imagen": "/img/liquidoDeFrenosRaybestos1litro.jpg",  "destacado" : true, "precio" : 1.259},
-{ "nombre" : "liquido para frenos 500 cm3", "marca" : "Raybestos",  "categoria" : "liquido para frenos",  "imagen": "/img/liquidoDeFrenosRaybestosMedioLitro.jpg",  "destacado" : true, "precio" : 680},
+{ "nombre" : "liquido para frenos 1 Litro", "marca" : "Raybestos",  "categoria" : "liquido para frenos",  "imagen": "/img/liquidoDeFrenosRaybestos1litro.jpg",  "destacado" : true, "precio" : 1.400},
+{ "nombre" : "liquido para frenos 500 cm3", "marca" : "Raybestos",  "categoria" : "liquido para frenos",  "imagen": "/img/liquidoDeFrenosRaybestosMedioLitro.jpg",  "destacado" : true, "precio" : 750},
 
-{ "nombre" : "H1", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h1.jpg", "codigo": 25511, "destacado" : false, "precio": 330},
-{ "nombre" : "H3", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h3.jpg", "codigo": 25531, "destacado" : false, "precio": 340},
-{ "nombre" : "H4", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h4.jpg", "codigo": 25551, "destacado" : true, "precio": 380},
+{ "nombre" : "H1", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h1.jpg", "codigo": 25511, "destacado" : false, "precio": 360},
+{ "nombre" : "H3", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h3.jpg", "codigo": 25531, "destacado" : false, "precio": 370},
+{ "nombre" : "H4", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h4.jpg", "codigo": 25551, "destacado" : true, "precio": 400},
 { "nombre" : "H7", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h7.jpg", "codigo": 25571, "destacado" : true, "precio": 450},
-{ "nombre" : "H11", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h11.jpg", "codigo": 25491, "destacado" : false, "precio": 1.500},
+{ "nombre" : "H11", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/h11.jpg", "codigo": 25491, "destacado" : false, "precio": 1.550},
 { "nombre" : "Piojito", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/piojito.jpg", "destacado" : true, "precio" : 65},
 { "nombre" : "Piojito Led", "marca" : "",  "categoria" : "iluminacion", "imagen": "/img/piojitoLed.jpg", "destacado" : true, "precio" : 170},
 { "nombre" : "1 Polo 12V", "marca" : "Marelli",  "categoria" : "iluminacion", "imagen": "/img/1Polo.jpg", "destacado" : false},
@@ -335,12 +335,68 @@
 { "nombre" : "pastillas de freno chevrolet agile", "tipo": "DELANTERAs", "marca" : "plasbestos", "codigo" : "22083", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "chevrolet", "modelo" : "AGILE"},
 { "nombre" : "pastillas de freno renault express", "tipo": "DELANTERAs", "marca" : "plasbestos", "codigo" : "22407", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "express"},
 { "nombre" : "pastillas de freno renault SCENIC ", "tipo": "DELANTERAs", "marca" : "plasbestos", "codigo" : "22407", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "SCENIC "},
-{ "nombre" : "pastillas de freno renault ", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22407", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : ""},
-{ "nombre" : "pastillas de freno renault ", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22407", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : ""},
-{ "nombre" : "pastillas de freno renault ", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22407", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : ""},
-{ "nombre" : "pastillas de freno renault ", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22407", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : ""},
+
+{ "nombre" : "pastillas de freno renault clio", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22407", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "clio"},
+{ "nombre" : "pastillas de freno renault express", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22407", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "express"},
+{ "nombre" : "pastillas de freno renault logan", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22407", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "logan"},
+{ "nombre" : "pastillas de freno renault sandero", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22407", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "sandero"},
+{ "nombre" : "pastillas de freno renault symbol", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22407", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "symbol 2009 en adelante"},
+
+{ "nombre" : "pastillas de freno ford focus", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22522", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "focus 2005 en adelante"},
+{ "nombre" : "pastillas de freno ford c max", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22522", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "c max"},
+{ "nombre" : "pastillas de freno ford ecosport", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22522", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "ecosport 2012 en adelante"},
+{ "nombre" : "pastillas de freno ford kuga", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22522", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "kuga"},
 
 
+{ "nombre" : "pastillas de freno chevrolet corsa 2", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22117", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "chevrolet", "modelo" : "corsa 2 2002 en adelante"},
+{ "nombre" : "pastillas de freno chevrolet corsa 1.7 D", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22117", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "chevrolet", "modelo" : "corsa 1.7 D"},
+
+
+{ "nombre" : "pastillas de freno peugeot 205", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22391n", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "205"},
+{ "nombre" : "pastillas de freno peugeot 207", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22391n", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "207"},
+{ "nombre" : "pastillas de freno peugeot 307", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22391n", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "307"},
+{ "nombre" : "pastillas de freno peugeot hoggar", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22391n", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "hoggar"},
+{ "nombre" : "pastillas de freno peugeot partner", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22391n", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "parner"},
+
+{ "nombre" : "pastillas de freno citroen berlingo", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22391n", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "berlingo 2010 en adelante"},
+
+
+{ "nombre" : "pastillas de freno chevrolet classic", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22083a", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "chevrolet", "modelo" : "classic 2009 en adelante"},
+{ "nombre" : "pastillas de freno chevrolet corsa", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22083a", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "chevrolet", "modelo" : "corsa 2009 en adelante"},
+{ "nombre" : "pastillas de freno chevrolet celta", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22083a", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "chevrolet", "modelo" : "celta 2009 en adelante"},
+{ "nombre" : "pastillas de freno chevrolet agile", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22083a", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "chevrolet", "modelo" : "agile 2009 en adelante"},
+
+
+{ "nombre" : "pastillas de freno vw golf", "tipo": "delanteras (araña chica)", "marca" : "plasbestos", "codigo" : "22363b", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "golf 1.6 / 2.0"},
+{ "nombre" : "pastillas de freno vw polo", "tipo": "delanteras (araña chica)", "marca" : "plasbestos", "codigo" : "22363b", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "polo 1.0 / 1.6"},
+{ "nombre" : "pastillas de freno vw fox", "tipo": "delanteras (araña chica)", "marca" : "plasbestos", "codigo" : "22363b", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "fox"},
+
+{ "nombre" : "pastillas de freno vw voyage", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22096a", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "voyage"},
+{ "nombre" : "pastillas de freno vw polo", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22096a", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "polo"},
+{ "nombre" : "pastillas de freno vw classic", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22096a", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "classic"},
+{ "nombre" : "pastillas de freno vw golf", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22096a", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "golf"},
+{ "nombre" : "pastillas de freno vw fox", "tipo": "delanteras", "marca" : "plasbestos", "codigo" : "22096a", "categoria" : "pastillas de freno", "imagen": "/img/pastillasPlasbestos.jfif", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "fox"},
+
+
+{ "nombre" : "pastillas de freno jeep renegade", "tipo": "traseras", "marca" : "raybestos", "codigo" : "83583", "categoria" : "pastillas de freno", "imagen": "/img/pastillasRaybestosfoto2.jpg", "destacado" : false, "marcaDeAuto" : "jeep", "modelo" : "renegade"},
+{ "nombre" : "pastillas de freno jeep renegade", "tipo": "delanteras", "marca" : "raybestos", "codigo" : "83582", "categoria" : "pastillas de freno", "imagen": "/img/pastillasRaybestosfoto2.jpg", "destacado" : false, "marcaDeAuto" : "jeep", "modelo" : "renegade"},
+{ "nombre" : "pastillas de freno ford fiesta kinetic", "tipo": "delanteras", "marca" : "raybestos", "codigo" : "83533", "categoria" : "pastillas de freno", "imagen": "/img/pastillasRaybestosfoto2.jpg", "destacado" : false, "marcaDeAuto" : "ford", "modelo" : "fiesta kinetic"},
+{ "nombre" : "pastillas de freno chevrolet cruze", "tipo": "traseras", "marca" : "raybestos", "codigo" : "83529", "categoria" : "pastillas de freno", "imagen": "/img/pastillasRaybestosfoto2.jpg", "destacado" : false, "marcaDeAuto" : "chevrolet", "modelo" : "cruze"},
+{ "nombre" : "pastillas de freno chevrolet cruze", "tipo": "traseras", "marca" : "raybestos", "codigo" : "83529", "categoria" : "pastillas de freno", "imagen": "/img/pastillasRaybestosfoto2.jpg", "destacado" : false, "marcaDeAuto" : "chevrolet", "modelo" : "cruze"},
+{ "nombre" : "pastillas de freno vw amarok", "tipo": "delanteras", "marca" : "raybestos", "codigo" : "83521", "categoria" : "pastillas de freno", "imagen": "/img/pastillasRaybestosfoto2.jpg", "destacado" : false, "marcaDeAuto" : "vw", "modelo" : "amarok"},
+{ "nombre" : "pastillas de freno toyota hilux 4x2 4x4", "tipo": "delanteras", "marca" : "raybestos", "codigo" : "83500", "categoria" : "pastillas de freno", "imagen": "/img/pastillasRaybestosfoto2.jpg", "destacado" : false, "marcaDeAuto" : "toyota", "modelo" : "hilux 4x2 / 4x2 (ambas 2005 en adelante)"},
+{ "nombre" : "pastillas de freno chevrolet cruze", "tipo": "delanteras", "marca" : "raybestos", "codigo" : "83528", "categoria" : "pastillas de freno", "imagen": "/img/pastillasRaybestosfoto2.jpg", "destacado" : false, "marcaDeAuto" : "chevrolet", "modelo" : "cruze"},
+{ "nombre" : "pastillas de freno peugeot 405", "tipo": "traseras", "marca" : "raybestos", "codigo" : "83058", "categoria" : "pastillas de freno", "imagen": "/img/pastillasRaybestosfoto2.jpg", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "405"},
+{ "nombre" : "pastillas de freno peugeot 306", "tipo": "traseras", "marca" : "raybestos", "codigo" : "83058", "categoria" : "pastillas de freno", "imagen": "/img/pastillasRaybestosfoto2.jpg", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "306"},
+{ "nombre" : "pastillas de freno peugeot 307", "tipo": "traseras", "marca" : "raybestos", "codigo" : "83058", "categoria" : "pastillas de freno", "imagen": "/img/pastillasRaybestosfoto2.jpg", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "307"},
+{ "nombre" : "pastillas de freno peugeot 807", "tipo": "traseras", "marca" : "raybestos", "codigo" : "83058", "categoria" : "pastillas de freno", "imagen": "/img/pastillasRaybestosfoto2.jpg", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "806"},
+{ "nombre" : "pastillas de freno renault duster", "tipo": "delanteras", "marca" : "raybestos", "codigo" : "83535", "categoria" : "pastillas de freno", "imagen": "/img/pastillasRaybestosfoto2.jpg", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "duster"},
+{ "nombre" : "pastillas de freno peugeot 807", "tipo": "traseras", "marca" : "raybestos", "codigo" : "83058", "categoria" : "pastillas de freno", "imagen": "/img/pastillasRaybestosfoto2.jpg", "destacado" : false, "marcaDeAuto" : "peugeot", "modelo" : "806"},
+{ "nombre" : "pastillas de freno toyota hilux sw4", "tipo": "delanteras", "marca" : "raybestos", "codigo" : "83549", "categoria" : "pastillas de freno", "imagen": "/img/pastillasRaybestosfoto2.jpg", "destacado" : false, "marcaDeAuto" : "toyota", "modelo" : "hilux sw4"},
+{ "nombre" : "pastillas de freno chevrolet cruze", "tipo": "delanteras", "marca" : "raybestos", "codigo" : "83528", "categoria" : "pastillas de freno", "imagen": "/img/pastillasRaybestosfoto2.jpg", "destacado" : false, "marcaDeAuto" : "chevrolet", "modelo" : "cruze"},
+{ "nombre" : "pastillas de freno renault logan", "tipo": "delanteras", "marca" : "raybestos", "codigo" : "83557", "categoria" : "pastillas de freno", "imagen": "/img/pastillasRaybestosfoto2.jpg", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "logan"},
+{ "nombre" : "pastillas de freno renault sandero", "tipo": "delanteras", "marca" : "raybestos", "codigo" : "83557", "categoria" : "pastillas de freno", "imagen": "/img/pastillasRaybestosfoto2.jpg", "destacado" : false, "marcaDeAuto" : "renault", "modelo" : "sandero"},
+{ "nombre" : "pastillas de freno chevrolet tracker", "tipo": "delanteras", "marca" : "raybestos", "codigo" : "83771", "categoria" : "pastillas de freno", "imagen": "/img/pastillasRaybestosfoto2.jpg", "destacado" : false, "marcaDeAuto" : "chevrolet", "modelo" : "tracker 2013 en adelante"},
 
 
 
