@@ -11,7 +11,7 @@ $("#section_pagos").append(`
         
     </div>
     <div class="parrafo_descuento">
-        <p href="./pages/formasDePago.html">5% de descuento pagando por transferencia</p>
+        <p href="./pages/formasDePago.html">10% de descuento pagando de contado</p>
     </div>
 
 `)
