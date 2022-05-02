@@ -1,6 +1,9 @@
 
 function itemView(item){
     console.log(item)
+
+    //? PRODUCTOS ESPECIFICOS SIN PRECIO PARA CADA AUTO, QUE SEAN FILTROS, PASTILLAS, AMORTIGUADORES, BIELETAS ETC, SE ESPECIFICA LA CATEGORIA
+
     if (item.categoria === "filtros de aceite" || item.categoria === "pastillas de freno" || item.categoria === "amortiguadores" || item.categoria === "bieletas") {
        
         item.modelo = item.modelo.toUpperCase().bold();
@@ -28,6 +31,8 @@ function itemView(item){
     `)
 
     } else {
+        //? PRODUCTOS GENERALES CON PRECIO. NO SE ESPECIFICA CATEGORIA
+
         if (item.precio) {
             $("#lista-productos").append(`
             <div class="producto">
@@ -36,6 +41,7 @@ function itemView(item){
                 <div class="producto_parrafo">
                     <p> ${item.nombre}  ${item.marca}</p> 
                     <p class="producto_precio">$ ${item.precio}</p>
+                    <p>codigo: ${item.codigo}</p>
                     <div action="" class="formulariowtsp contenedor_consulta">
 
                         <button type="submit" class="btnwtsp sendbttn">consultar stok</button>
@@ -47,13 +53,16 @@ function itemView(item){
             
             `)
         } else {
+
+            //? PRODUCTOS GENERALES SIN PRECIO
+
             $("#lista-productos").append(`
             <div class="producto">
                 
                 <img class="imagen_producto" src="${item.imagen}" alt=${item.nombre} ${item.marca} />
                 <div class="producto_parrafo">
                     <p> ${item.nombre}  ${item.marca}</p> 
-
+                    <p>codigo: ${item.codigo}</p>
                     <div action="" class="formulariowtsp contenedor_consulta">
 
                         <button type="submit" class="btnwtsp sendbttn">consultar precio</button>
@@ -82,10 +91,10 @@ function itemView(item){
         let mensaje = `Hola, deseo consultar el precio y si hay stock del articulo: ${item.nombre}`;
         if (item.codigo) {
             let codigo = item.codigo;
-            let url = "https://api.whatsapp.com/send?phone=+541160926421&text=" + mensaje + ` codigo: ${codigo}` + "%0A";
+            let url = "https://api.whatsapp.com/send?phone=+541151390531&text=" + mensaje + ` codigo: ${codigo}` + "%0A";
             window.open(url);
         }else{
-            let url = "https://api.whatsapp.com/send?phone=+541160926421&text=" + mensaje + "%0A";
+            let url = "https://api.whatsapp.com/send?phone=+541151390531&text=" + mensaje + "%0A";
             window.open(url);
         }
     
